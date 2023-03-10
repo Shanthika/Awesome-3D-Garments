@@ -10,8 +10,7 @@ Table of Contents
 
 * [Dataset](#Dataset)
 	* [Cloth3D](#Cloth3D)
-	* [Deep Fashion3D](#Deep Fashion3D)
-	* [Check this out](#check-this-out)
+	* [Deep Fashion3D](#deep-fashion3D) 
 	* 
 
 # Dataset
@@ -21,8 +20,5 @@ This dataset contains a large collection of synthetic garment data obtained via 
 ![[cloth3d.png]]
 
 
-<a name="deep_fashion3d"></a>
 ###### Deep Fashion3D 
-
-###### Check this out
-###### Cloth3D 
+ 
