@@ -12,10 +12,10 @@ Table of Contents
 - [Dataset](#dataset)
 	- [Cloth3D](#cloth3d)
 	- [Deep Fashion3D](#deep-fashion3d)
-
-
-
-
+	- [MGN](#mgn)
+	- [BUFF](#buff)
+	- [SIZER](#sizer)
+	
 
 
 
