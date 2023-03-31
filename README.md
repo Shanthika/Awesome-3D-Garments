@@ -10,8 +10,8 @@ Table of Contents
 
 - [Awesome-3D-Garments](#awesome-3d-garments)
 - [Dataset](#dataset)
-			- [Cloth3D](#cloth3d)
-			- [Deep Fashion3D](#deep-fashion3d)
+			* [Cloth3D](#cloth3d)
+			* [Deep Fashion3D](#deep-fashion3d)
 
 
 
