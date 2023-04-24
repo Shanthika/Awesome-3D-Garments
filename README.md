@@ -9,22 +9,41 @@ Table of Contents
 =================
 
 - [Awesome-3D-Garments](#awesome-3d-garments)
-- [Dataset](#dataset)
+- [Garment Dataset](#garment-dataset)
 	- [Cloth3D](#cloth3d)
 	- [Deep Fashion3D](#deep-fashion3d)
 	- [MGN](#mgn)
-	- [BUFF](#buff)
 	- [SIZER](#sizer)
-	
+- [Clothed Human Dataset](#clothed-human-dataset)
+	- [3D Humans](3d-humans)
+	- [THuman2.0](#thuman2.0)
+	- [XHumans](#xhumans)
+	- [BUFF](#buff)
 
 
 
-# Dataset 
+
+# Garment Dataset 
 ## [Cloth3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/)
 This dataset contains a large collection of synthetic garment data obtained via animation SMPL models wearing different garments. They contain 6 different categories: t-shirt, top, dress, trousers, skirts and jumpsuits; each with different variation in topology such as length of sleeves, torso, legs, distance from body etc.  They also provide UV mapping, allowing one to swap in any desired textures. 
 ![](images/cloth3d.png)
 
 
 ## [Deep Fashion3D](https://github.com/kv2000/deepFashion3D) 
-They provide a collection of 3D garments obtained from 3D reconstruction of images. It contains over 2000 3D garment models, spanning 10 different cloth categories. Colored 3D point cloud og garments, body pose of underlying human body, line annotations are provided.
+They provide a collection of 3D garments obtained from 3D reconstruction of images. It contains over 2000 3D garment models, spanning 10 different cloth categories. Colored 3D point cloud of garments, body pose of underlying human body, line annotations are provided.
 ![](images/deepfashion3d.png)
+
+## [MGN](https://virtualhumans.mpi-inf.mpg.de/mgn)
+
+## [SIZER](https://virtualhumans.mpi-inf.mpg.de/sizer/)
+
+
+# Clothed Human Dataset
+## [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
+
+## [THuman2.0](https://github.com/ytrock/THuman2.0-Dataset)
+
+## [XHumans](https://github.com/Skype-line/X-Avatar)
+
+
+## [BUFF](https://buff.is.tue.mpg.de/)
