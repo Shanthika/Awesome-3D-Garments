@@ -55,3 +55,5 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 
 
 ## [BUFF](https://buff.is.tue.mpg.de/)
+![](images/buff.png)
+
