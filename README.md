@@ -34,16 +34,24 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 ![](images/deepfashion3d.png)
 
 ## [MGN](https://virtualhumans.mpi-inf.mpg.de/mgn)
+![](images/mgn.png)
+
 
 ## [SIZER](https://virtualhumans.mpi-inf.mpg.de/sizer/)
-
+![](images/sizer.jpg)
 
 # Clothed Human Dataset
 ## [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
+![](images/3dhumans.png)
+
 
 ## [THuman2.0](https://github.com/ytrock/THuman2.0-Dataset)
+![](images/thuman.jpg)
+
+
 
 ## [XHumans](https://github.com/Skype-line/X-Avatar)
+![](images/xhumans.png)
 
 
 ## [BUFF](https://buff.is.tue.mpg.de/)
