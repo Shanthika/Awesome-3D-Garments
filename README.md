@@ -19,6 +19,7 @@ Table of Contents
 	- [THuman2.0](#thuman2.0)
 	- [XHumans](#xhumans)
 	- [BUFF](#buff)
+	- [MultiHuman](#multihuman)
 
 
 
@@ -59,5 +60,8 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 
 ## [BUFF](https://buff.is.tue.mpg.de/)
 <img src="images/buff.png" width="600">
+
+## [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
+<img src="images/MultiHuman.jpg" width="600">
 
 
