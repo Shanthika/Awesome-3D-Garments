@@ -43,7 +43,7 @@ Table of Contents
 
 ## Collision Handling and Contact Friction Modeling
 - [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html)
-
+- [Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf)
 
 # Datasets
 ## Garment Dataset 
