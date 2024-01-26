@@ -10,6 +10,9 @@ Table of Contents
 
 - [Cloth Simulation](#cloth-simulation)
 	- [Courses](#courses)
+ 	- [Papers](#papers)
+		- [Classical Simulation](#classical-simulation)
+		- [Collision Handling and Contact Friction Modeling](#collision-handling-and-contact-friction-modeling)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 		- [Cloth3D](#cloth3d)
@@ -27,6 +30,21 @@ Table of Contents
 # Cloth Simulation
 ## Courses
 - [Physics Based Animation](https://github.com/dilevin/CSC417-physics-based-animation?tab=readme-ov-file)
+
+
+# Papers
+## Classical Simulation
+- [Adaptive Anisotropic Remeshing for Cloth Simulation](http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf)
+
+	#### Implementations:
+	- [ArcSim](https://github.com/DanielTakeshi/ARCSim-Installation-Instructions)
+	- [Argus](https://github.com/lijieumn/argus-distribution)
+
+
+## Collision Handling and Contact Friction Modeling
+- [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html)
+
+
 # Datasets
 ## Garment Dataset 
 ### [Cloth3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/)
