@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curation of research papers and datasets related to 3D garment digitisation. 
+Curation of research papers and datasets related to 3D garment digitization and simulation
 
 Table of Contents
 
