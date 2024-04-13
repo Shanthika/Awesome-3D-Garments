@@ -16,7 +16,7 @@ Table of Contents
 		- [Collision Handling and Contact Friction Modeling](#collision-handling-and-contact-friction-modeling)
 		- [DL for Simulation](#dl-for-simulation)
 		- [Inverse Cloth Simulation](#inverse-cloth-simulation)
-		- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-and-simulation)
+		- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
 		- [Garment Retargetting](#garment-retargetting)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
@@ -75,9 +75,10 @@ Table of Contents
 - [Inverse Dynamic Modeling of Cloth](https://inria.hal.science/tel-03501532v1/document)
 - [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf)
 
-## Human and Garment Reconstruction and Simulation
+## Human and Garment Reconstruction Simulation and Rendering
 - [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)
 - [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
+- [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/pdf/2404.04421.pdf)
 
 ## Garment Retargetting
 - [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf)
