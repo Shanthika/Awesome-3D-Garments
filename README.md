@@ -18,6 +18,7 @@ Table of Contents
 		- [Inverse Cloth Simulation](#inverse-cloth-simulation)
 		- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
 		- [Garment Retargetting](#garment-retargetting)
+    		- [Garment Generation]
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
@@ -84,6 +85,8 @@ Table of Contents
 - [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf)
 - [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf)
 
+## Garment Generation
+- [Garment3DGen: 3D Garment Stylization and Texture Generation](https://arxiv.org/pdf/2404.04421.pdf)
 # Datasets
 ## Garment Dataset 
 ### [Cloth3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/)
