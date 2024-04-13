@@ -18,7 +18,7 @@ Table of Contents
 		- [Inverse Cloth Simulation](#inverse-cloth-simulation)
 		- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
 		- [Garment Retargetting](#garment-retargetting)
-    		- [Garment Generation]
+		- [Garment Generation](#garment-generation)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
