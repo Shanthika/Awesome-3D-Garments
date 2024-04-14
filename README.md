@@ -19,6 +19,7 @@ Table of Contents
 		- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
 		- [Garment Retargetting](#garment-retargetting)
 		- [Garment Generation](#garment-generation)
+		- [Single View Clothed Human Reconstruction](#single-view-clothed-human-reconstruction)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
@@ -87,6 +88,12 @@ Table of Contents
 
 ## Garment Generation
 - [Garment3DGen: 3D Garment Stylization and Texture Generation](https://arxiv.org/pdf/2404.04421.pdf)
+
+## Single View Clothed Human Reconstruction 
+- [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf)
+
+
+
 # Datasets
 ## Garment Dataset 
 ### [Cloth3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/)
