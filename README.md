@@ -51,7 +51,7 @@ Table of Contents
 	- [ArcSim](https://github.com/DanielTakeshi/ARCSim-Installation-Instructions)
 	- [Argus](https://github.com/lijieumn/argus-distribution)
  - [Cloth simulation and collision detection using geometry images](https://ujcontent.uj.ac.za/esploro/outputs/graduate/Cloth-simulation-and-collision-detection-using/9910105707691/filesAndLinks?index=0)
-
+ - [Multi-Layer Thick Shells](https://dl.acm.org/doi/pdf/10.1145/3588432.3591489)
 ## Neural Cloth Simulation
 - [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf)
