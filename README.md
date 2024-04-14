@@ -20,6 +20,7 @@ Table of Contents
 		- [Garment Retargetting](#garment-retargetting)
 		- [Garment Generation](#garment-generation)
 		- [Single View Clothed Human Reconstruction](#single-view-clothed-human-reconstruction)
+		- [Learning Clothed Human Skinning](#learning-clothed-human-skinning)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
@@ -92,7 +93,8 @@ Table of Contents
 ## Single View Clothed Human Reconstruction 
 - [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf)
 
-
+## Learning Clothed Human Skinning
+- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)
 
 # Datasets
 ## Garment Dataset 
