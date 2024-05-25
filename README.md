@@ -5,29 +5,26 @@
 Curation of research papers and datasets related to 3D garment digitization and simulation
 
 Table of Contents
-
 =================
 
-- [Cloth Simulation](#cloth-simulation)
-	- [Courses](#courses)
- 	- [Papers](#papers)
-		- [Classical Cloth Simulation](#classical-cloth-simulation)
-		- [Neural Cloth Simulation](#neural-cloth-simulation)
-		- [Collision Handling and Contact Friction Modeling](#collision-handling-and-contact-friction-modeling)
-		- [DL for Simulation](#dl-for-simulation)
-		- [Inverse Cloth Simulation](#inverse-cloth-simulation)
-		- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
-		- [Garment Retargetting](#garment-retargetting)
-		- [Garment Generation](#garment-generation)
-		- [Single View Clothed Human Reconstruction](#single-view-clothed-human-reconstruction)
-		- [Learning Clothed Human Skinning](#learning-clothed-human-skinning)
+- [Courses](#courses)
+- [Papers](#papers)
+	- [Classical Cloth Simulation](#classical-cloth-simulation)
+	- [Neural Cloth Simulation](#neural-cloth-simulation)
+	- [Collision Handling and Contact Friction Modeling](#collision-handling-and-contact-friction-modeling)
+	- [DL for Simulation](#dl-for-simulation)
+	- [Inverse Cloth Simulation](#inverse-cloth-simulation)
+	- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
+	- [Garment Retargetting](#garment-retargetting)
+	- [Garment Generation](#garment-generation)
+	- [Single View Clothed Human Reconstruction](#single-view-clothed-human-reconstruction)
+	- [Learning Clothed Human Skinning](#learning-clothed-human-skinning)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
 
 
-# Cloth Simulation
-## Courses
+# Courses
 - [Physics Based Animation](https://github.com/dilevin/CSC417-physics-based-animation?tab=readme-ov-file)
 - Cloth Simulation: [1](https://graphics.stanford.edu/~mdfisher/cloth.html#EquationsOfMotion) [2](https://cg.informatik.uni-freiburg.de/course_notes/sim_03_cloth1.pdf)
 - [Linear Implicit Solver](https://people.engr.tamu.edu/sueda/courses/CSCE489/2021F/assignments/A5/index.html)
