@@ -124,6 +124,8 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 
 
 ### [Generating Datasets of 3D Garments with Sewing Patterns](https://github.com/maria-korosteleva/Garment-Pattern-Generator)
+<img src="images/sewing_patterns.png" width="600">
+
 
 ## Clothed Human Dataset
 ### [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
