@@ -145,7 +145,7 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 
 
 ### [4D-DRESS Dataset Subjects](https://eth-ait.github.io/4d-dress/)
-<img src="images/4D-Dress.png" width="600">
+<img src="images/4d_dress.png" width="600">
 
 ### [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
 <img src="images/MultiHuman.jpg" width="600">
