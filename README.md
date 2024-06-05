@@ -98,6 +98,8 @@ Table of Contents
 ## Garment Generation
 - [Garment3DGen: 3D Garment Stylization and Texture Generation](https://arxiv.org/pdf/2404.04421.pdf)
 - [GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details](https://arxiv.org/pdf/2405.12420)
+  	BOQIAN LI, XUAN LI, YING JIANG1,TIANYI XIE, FENG GAO, HUAMIN WANG, YIN YANG and CHENFANFU JIANG
+  	ArXiv, 2024
 
 ## Clothed Human Reconstruction from Monocular Image/Video 
 - [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf)
