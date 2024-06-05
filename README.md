@@ -102,7 +102,7 @@ Table of Contents
 - [GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details](https://arxiv.org/pdf/2405.12420) \
 	BOQIAN LI, XUAN LI, YING JIANG1,TIANYI XIE, FENG GAO, HUAMIN WANG, YIN YANG and CHENFANFU JIANG \
 	ArXiv, 2024
-- [WordRobe: Text-Guided Generation of Textured 3D Garments] \
+- [WordRobe: Text-Guided Generation of Textured 3D Garments](https://arxiv.org/pdf/2403.17541) \
   	Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
   	ArXiv, 2024
 
