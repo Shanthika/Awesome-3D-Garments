@@ -54,7 +54,9 @@ Table of Contents
 ## Neural Cloth Simulation
 - [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf)
-- [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896)
+- [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
+  	YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
+  	ArXiv, 2024
   
 ## Collision Handling and Contact Friction Modeling
 - [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html)
@@ -97,8 +99,11 @@ Table of Contents
 
 ## Garment Generation
 - [Garment3DGen: 3D Garment Stylization and Texture Generation](https://arxiv.org/pdf/2404.04421.pdf)
-- [GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details](https://arxiv.org/pdf/2405.12420)
-  	BOQIAN LI, XUAN LI, YING JIANG1,TIANYI XIE, FENG GAO, HUAMIN WANG, YIN YANG and CHENFANFU JIANG
+- [GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details](https://arxiv.org/pdf/2405.12420) \
+	BOQIAN LI, XUAN LI, YING JIANG1,TIANYI XIE, FENG GAO, HUAMIN WANG, YIN YANG and CHENFANFU JIANG \
+	ArXiv, 2024
+- [WordRobe: Text-Guided Generation of Textured 3D Garments] \
+  	Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
   	ArXiv, 2024
 
 ## Clothed Human Reconstruction from Monocular Image/Video 
