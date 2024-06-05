@@ -52,7 +52,9 @@ Table of Contents
 
    
 ## Neural Cloth Simulation
-- [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
+- [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf) \
+	Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon
+	SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf)
 - [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
   	YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
