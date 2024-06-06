@@ -151,7 +151,7 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 <img src="images/sewing_patterns.png" width="600">
 
 ### 6. [Simulated garment dataset for virtual try-on](https://github.com/isantesteban/vto-dataset)
-
+<img src="images/vto.gif" width="600">
 
 
 ## Clothed Human Dataset
