@@ -19,6 +19,7 @@ Table of Contents
 	- [Garment Generation](#garment-generation)
 	- [Single View Clothed Human Reconstruction](#single-view-clothed-human-reconstruction)
 	- [Learning Clothed Human Skinning](#learning-clothed-human-skinning)
+   	- [Virtual Try On](#virtual-try-on)
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
@@ -133,6 +134,14 @@ Table of Contents
 
 ## Learning Clothed Human Skinning
 - [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)
+
+
+## Virtual Try On
+- [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
+  	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
+  	SIGGRAPH 2024
+
+
 
 # Datasets
 ## Garment Dataset 
