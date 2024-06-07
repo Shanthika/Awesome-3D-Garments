@@ -77,7 +77,9 @@ Table of Contents
 - [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/pdf/2204.02219.pdf) | [Code](https://github.com/isantesteban/snug/tree/main) \
   	Igor Santesteban, Miguel A. Otaduy, and Dan Casas
 	IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
-- [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main)
+- [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main) \
+  	Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
+  	
 - [GenSim: Unsupervised Generic Garment Simulator](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Tiwari_GenSim_Unsupervised_Generic_Garment_Simulator_CVPRW_2023_paper.pdf) \
   	Lokender Tiwari Brojeshwar Bhowmick Sanjana Sinha \
   	CVPR Workshop, 2023
