@@ -55,7 +55,9 @@ Table of Contents
 - [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf) \
 	Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
 	SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
-- [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf)
+- [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
+  	NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
+  	ArXiv, 2023
 - [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
   	YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
   	ArXiv, 2024
@@ -79,7 +81,7 @@ Table of Contents
 	IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
 - [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main) \
   	Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
-  	
+  	CVPR, 2024
 - [GenSim: Unsupervised Generic Garment Simulator](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Tiwari_GenSim_Unsupervised_Generic_Garment_Simulator_CVPRW_2023_paper.pdf) \
   	Lokender Tiwari Brojeshwar Bhowmick Sanjana Sinha \
   	CVPR Workshop, 2023
@@ -100,8 +102,12 @@ Table of Contents
 - [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://proceedings.neurips.cc/paper_files/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf)
   
 ## Garment Retargetting
-- [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG)
-- [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet)
+- [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
+  	Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua \
+  	ACCV, 2022
+- [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
+  	Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
+  	CVPR, 2023
 - [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
   	Ruochen Chen, Liming Chen, Shaifali Parashar \
   	3DV, 2024  
