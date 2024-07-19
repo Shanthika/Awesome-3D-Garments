@@ -95,14 +95,9 @@ Table of Contents
 - [Inverse Dynamic Modeling of Cloth](https://inria.hal.science/tel-03501532v1/document)
 - [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf)
 
-## Human and Garment Reconstruction Simulation and Rendering
-- [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)
-- [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
-- [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/pdf/2404.04421.pdf)
-- [NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments](https://dl.acm.org/doi/pdf/10.1145/3528223.3530179)
-- [Towards Garment Sewing Pattern Reconstruction from a Single Image](https://sewformer.github.io/)
-- [Inverse Garment and Pattern Modeling with a Differentiable Simulator](https://arxiv.org/pdf/2403.06841)
-- [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://proceedings.neurips.cc/paper_files/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf)
+
+
+  
   
 ## Garment Retargetting
 - [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
@@ -127,22 +122,82 @@ Table of Contents
   	Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
   	ArXiv, 2024
 
-## Clothed Human Reconstruction from Monocular Image/Video 
-- [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf)
-- [SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion](https://sith-diffusion.github.io/)
-- [GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting](https://arxiv.org/pdf/2401.09720)
 
-  
 
-## Learning Clothed Human Skinning
-- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)
-
+## Learning Clothed Human Deformation from 3D scans
+### 2023
+- [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)\
+  Zhaoqi Su, Liangxiao Hu, Siyou Lin, Hongwen Zhang, Shengping Zhang, Justus Thies, Yebin Liu \
+  ICCV 
+- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)\
+  Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Yandong Guo, Yebin Liu \
+  CVPR 
 
 ## Virtual Try On
 - [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
   	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
   	SIGGRAPH 2024
 
+
+## Dynamic Human Reconstruction from Multiview Video
+### 2024
+- [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/pdf/2404.04421.pdf) \
+  Yang Zheng, Qingqing Zhao, Guandao Yang, Wang Yifan, Donglai Xiang, Florian Dubost, Dmitry Lagun, Thabo Beeler, Federico Tombari, Leonidas Guibas, Gordon Wetzstein \
+  arXiv
+### 2022
+- [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://neuralbodies.github.io/arah/) \
+  Shaofei Wang,  Katja Schwarz,  Andreas Geiger,  Siyu Tang \
+  ECCV
+- [TAVA: Template-free Animatable Volumetric Actors](https://github.com/facebookresearch/tava) \
+  Ruilong Li,Julian Tanke, Minh Vo, Michael Zollhoefer, Jürgen Gall, Angjoo Kanazawa, Christoph Lassner\
+  ECCV
+
+## Dynamic Human Reconstruction from Monocular Video
+### 2024
+- [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_GaussianAvatar_Towards_Realistic_Human_Avatar_Modeling_from_a_Single_Video_CVPR_2024_paper.html) \
+  Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie \
+  CVPR
+  NOTE: Map to Canonical
+- [GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting](https://arxiv.org/pdf/2401.09720) \
+  Mengtian Li, Shengxiang Yao, Zhifeng Xie, Keyu Chen \
+  ArXiv
+  NOTE: Map to Canonical
+  
+  
+## Garment Reconstruction from Monocular Video
+
+## Garment Reconstruction from Multiview Video
+
+## Human and Garment Reconstruction Simulation and Rendering
+
+## Appearance Modelling of Avatars from Multiview Video
+### 2022
+- [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
+  Donglai Xiang, Timur Bagautdinov, Tuur Stuyck, Fabian Prada, Javier Romero, Weipeng Xu, Shunsuke Saito, Jingfan Guo, Breannan Smith, Takaaki Shiratori, 
+  Yaser Sheikh, Jessica Hodgins, and Chenglei Wu \
+  ACM Transactions on Graphics (TOG)
+
+## Panel Based Garment Representation
+### 2024
+- [Inverse Garment and Pattern Modeling with a Differentiable Simulator](https://arxiv.org/pdf/2403.06841) \
+  Boyang Yu, Frederic Cordier, and Hyewon Seo \
+  ArXiv
+### 2023
+- [Towards Garment Sewing Pattern Reconstruction from a Single Image](https://sewformer.github.io/) \
+  Lijuan Liu, Xiangyu Xu, Zhijie Lin, Jiabin Liang, Shuicheng Yan \
+  SIGGRAPH ASIA
+### 2022
+- [NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments](https://dl.acm.org/doi/pdf/10.1145/3528223.3530179) \
+  Maria Korosteleva and Sung-Hee Lee \	
+  ACM Transactions on Graphics (TOG)
+### 2021
+- [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://proceedings.neurips.cc/paper_files/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf) \
+  Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu \
+  NeurIPS
+
+## Clothed Human Reconstruction from Monocular Image/Video 
+- [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf)
+- [SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion](https://sith-diffusion.github.io/)
 
 
 # Datasets
