@@ -54,25 +54,8 @@ Table of Contents
 	- [Argus](https://github.com/lijieumn/argus-distribution)
 - [Cloth simulation and collision detection using geometry images](https://ujcontent.uj.ac.za/esploro/outputs/graduate/Cloth-simulation-and-collision-detection-using/9910105707691/filesAndLinks?index=0)
  - [Multi-Layer Thick Shells](https://dl.acm.org/doi/pdf/10.1145/3588432.3591489) 
-   
 
-## Neural Cloth Simulation
-#### 2024
-- [Bayesian Differentiable Physics for Cloth Digitalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Bayesian_Differentiable_Physics_for_Cloth_Digitalization_CVPR_2024_paper.pdf) \
-  Deshan Gong, Ningtao Mao, He Wang \
-  CVPR, 2024
-- [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
-  YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
-  ArXiv, 2024
-#### 2023
-- [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf) \
-  Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
-  SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
-- [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
-  NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
-  ArXiv, 2023
 
-  
 ## Collision Handling and Contact Friction Modeling
 #### 2022
 - [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://people.csail.mit.edu/liyifei/uploads/Li-liyifei-SM-EECS-2022-thesis.pdf) \
@@ -100,6 +83,23 @@ Table of Contents
 - [Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf) \
   Robert Bridson, Ronald Fedkiw, John Anderson \
   SIGGRAPH, 2002
+
+## Neural Cloth Simulation
+#### 2024
+- [Bayesian Differentiable Physics for Cloth Digitalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Bayesian_Differentiable_Physics_for_Cloth_Digitalization_CVPR_2024_paper.pdf) \
+  Deshan Gong, Ningtao Mao, He Wang \
+  CVPR, 2024
+- [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
+  YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
+  ArXiv, 2024
+#### 2023
+- [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf) \
+  Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
+  SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
+- [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
+  NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
+  ArXiv, 2023
+
 
 ## DL for Simulation
 #### 2024
@@ -138,30 +138,6 @@ Table of Contents
   Junbang Liang, Ming C. Lin, Vladlen Koltun \
   NeurIPS, 2019
 
-## Garment Retargetting
-#### 2023
-- [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
-  Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
-  CVPR, 2023
-- [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP) \
-  Ren Li, Benoit Guillard, Pascal Fua \
-  NeurIPS, 2023
-- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf) \
-  DOHAE LEE, Yonsei University, HYUN KANG, IN-KWON LEE \
-  ACM TOG, 2023
-#### 2022
-- [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
-  	Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua \
-  	ACCV, 2022
-- [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://dancasas.github.io/docs/santesteban_NeurIPS2022.pdf) \
-  Igor Santesteban, Miguel A. Otaduy, Nils Thuerey, Dan Casas
-  NeurIPS 2022
-#### 2021
-- [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf) | [Code](https://github.com/isantesteban/vto-garment-collisions) \
-  Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas \
-  CVPR, 2021 
-
-
 ## Avatar Generation
 #### 2024
 - [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://nvlabs.github.io/GAvatar) \
@@ -187,27 +163,6 @@ Table of Contents
 - [WordRobe: Text-Guided Generation of Textured 3D Garments](https://arxiv.org/pdf/2403.17541) \
   Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
   ECCV, 2024
-
-## Learning Clothed Human Deformation from 3D scans
-#### 2023
-- [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)\
-  Zhaoqi Su, Liangxiao Hu, Siyou Lin, Hongwen Zhang, Shengping Zhang, Justus Thies, Yebin Liu \
-  ICCV, 2023
-- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)\
-  Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Yandong Guo, Yebin Liu \
-  CVPR, 2023
-#### 2021
-- [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Saito_SCANimate_Weakly_Supervised_Learning_of_Skinned_Clothed_Avatar_Networks_CVPR_2021_paper.pdf) \
-  Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black \
-  CVPR, 2021 \
-  NOTE: Map to canonical t-pose
-
-## Virtual Try On
-#### 2024
-- [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
-  	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
-  	SIGGRAPH, 2024
-
 
 ## Dynamic Human Reconstruction from Multiview Video
 #### 2024
@@ -291,7 +246,50 @@ Table of Contents
   Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua \
   CVPR, 2024
 
+## Learning Clothed Human Deformation from 3D scans
+#### 2023
+- [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)\
+  Zhaoqi Su, Liangxiao Hu, Siyou Lin, Hongwen Zhang, Shengping Zhang, Justus Thies, Yebin Liu \
+  ICCV, 2023
+- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)\
+  Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Yandong Guo, Yebin Liu \
+  CVPR, 2023
+#### 2021
+- [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Saito_SCANimate_Weakly_Supervised_Learning_of_Skinned_Clothed_Avatar_Networks_CVPR_2021_paper.pdf) \
+  Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black \
+  CVPR, 2021 \
+  NOTE: Map to canonical t-pose
+  
+## Garment Retargetting
+#### 2023
+- [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
+  Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
+  CVPR, 2023
+- [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP) \
+  Ren Li, Benoit Guillard, Pascal Fua \
+  NeurIPS, 2023
+- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf) \
+  DOHAE LEE, Yonsei University, HYUN KANG, IN-KWON LEE \
+  ACM TOG, 2023
+#### 2022
+- [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
+  	Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua \
+  	ACCV, 2022
+- [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://dancasas.github.io/docs/santesteban_NeurIPS2022.pdf) \
+  Igor Santesteban, Miguel A. Otaduy, Nils Thuerey, Dan Casas
+  NeurIPS 2022
+#### 2021
+- [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf) | [Code](https://github.com/isantesteban/vto-garment-collisions) \
+  Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas \
+  CVPR, 2021 
 
+## Virtual Try On
+#### 2024
+- [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
+  	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
+  	SIGGRAPH, 2024
+
+  
 # Datasets
 ## Garment Dataset 
 ### 1. [Cloth3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/)
