@@ -72,6 +72,7 @@ Table of Contents
 - [I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation](https://min-tang.github.io/home/ICloth/files/icloth.pdf)
 - [Implicit Contact Handling for Deformable Objects](https://media.disneyanimation.com/uploads/production/publication_asset/32/asset/EG2009_implicit_contact.pdf)
 - [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf)
+- [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408)
   
 ## DL for Simulation
 - [Neural Cloth Simulation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555491) | [Code](https://github.com/hbertiche/NeuralClothSim/) \
@@ -141,6 +142,10 @@ Table of Contents
 
 ## Dynamic Human Reconstruction from Multiview Video
 ### 2024
+- [Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling](https://arxiv.org/pdf/2311.16096)\
+  Zhe Li, Yipengjing Sun, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu \
+  CVPR
+  NOTE: Map to Canonical
 - [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/pdf/2404.04421.pdf) \
   Yang Zheng, Qingqing Zhao, Guandao Yang, Wang Yifan, Donglai Xiang, Florian Dubost, Dmitry Lagun, Thabo Beeler, Federico Tombari, Leonidas Guibas, Gordon Wetzstein \
   arXiv
@@ -157,17 +162,30 @@ Table of Contents
 - [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_GaussianAvatar_Towards_Realistic_Human_Avatar_Modeling_from_a_Single_Video_CVPR_2024_paper.html) \
   Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie \
   CVPR
-  NOTE: Map to Canonical
+  NOTE: Map to Canonical T-pose
 - [GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting](https://arxiv.org/pdf/2401.09720) \
   Mengtian Li, Shengxiang Yao, Zhifeng Xie, Keyu Chen \
   ArXiv
-  NOTE: Map to Canonical
+  NOTE: Map to Canonical T-pose
   
   
 ## Garment Reconstruction from Monocular Video
-
+### 2023
+- [REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) \
+  Lingteng Qiu1, Guanying Chen, Jiapeng Zhou, Mutian Xu, Junle Wang,Xiaoguang Han \
+  CVPR \
+  NOTE:  Deformation of T-pose template mesh
+### 2021
+- [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/pdf/2011.12866) \
+  Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler and Christian Theobalt \
+  3DV \
+  NOTE: Temporal deformation 
 ## Garment Reconstruction from Multiview Video
-
+### 2023
+- [Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/) \
+  Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero \
+  ArXiv\
+  NOTE: Map to Canonical T-pose
 ## Human and Garment Reconstruction Simulation and Rendering
 
 ## Appearance Modelling of Avatars from Multiview Video
@@ -179,6 +197,9 @@ Table of Contents
 
 ## Panel Based Garment Representation
 ### 2024
+- [DiffAvatar: Simulation-Ready Garment Optimization with Differentiable Simulation](https://arxiv.org/pdf/2311.12194#page=4.27) \
+  Yifei Li, Hsiao-yu Chen, Egor Larionov, Nikolaos Sarafianos, Wojciech Matusik, Tuur Stuyck \
+  CVPR
 - [Inverse Garment and Pattern Modeling with a Differentiable Simulator](https://arxiv.org/pdf/2403.06841) \
   Boyang Yu, Frederic Cordier, and Hyewon Seo \
   ArXiv
