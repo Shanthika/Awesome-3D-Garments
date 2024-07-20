@@ -34,32 +34,22 @@ Table of Contents
 
 # Papers
 ## Classical Cloth Simulation 
-- [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) \
-  David Baraff, Andrew Witkin \
-  SIGGRAPH - 1998
-- [Numerical Methods in Cloth Simulation](https://www.wuwayne.com/files/clothsim/report.pdf) \
-  Gavin Hayler, Shaun Bangay and Adele Lobb
-- [Implicit and Explicit Methods of Cloth Simulation](https://www.cs.ru.ac.za/research/groups/vrsig/pastprojects/052cloth/paper03.pdf) \
-  Gavin Hayler, Shaun Bangay and Adele Lobb
-- [Position Based Dynamics](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf) \
-  Matthias Müller, Bruno Heidelberger, Marcus Hennix, John Ratcliff
-
+- [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf)
+- [Numerical Methods in Cloth Simulation](https://www.wuwayne.com/files/clothsim/report.pdf)  
+- [Implicit and Explicit Methods of Cloth Simulation](https://www.cs.ru.ac.za/research/groups/vrsig/pastprojects/052cloth/paper03.pdf)  
+- [Position Based Dynamics](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf) 
   	#### Implementation
   	- [PBD](https://carmencincotti.com/2022-07-11/position-based-dynamics/)
   	- [Velvet](https://github.com/vitalight/Velvet)
   	  
-- [Adaptive Anisotropic Remeshing for Cloth Simulation](http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf) \
-  Rahul Narain, Armin Samii, James F. O’Brien \
-  SIGGRAPH Asia, 2012
-
+- [Adaptive Anisotropic Remeshing for Cloth Simulation](http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf)
 	#### Implementations:
 	- [ArcSim](https://github.com/DanielTakeshi/ARCSim-Installation-Instructions)
 	- [Argus](https://github.com/lijieumn/argus-distribution)
- - [Cloth simulation and collision detection using geometry images](https://ujcontent.uj.ac.za/esploro/outputs/graduate/Cloth-simulation-and-collision-detection-using/9910105707691/filesAndLinks?index=0)
+- [Cloth simulation and collision detection using geometry images](https://ujcontent.uj.ac.za/esploro/outputs/graduate/Cloth-simulation-and-collision-detection-using/9910105707691/filesAndLinks?index=0)
  - [Multi-Layer Thick Shells](https://dl.acm.org/doi/pdf/10.1145/3588432.3591489) 
    
 
-   
 ## Neural Cloth Simulation
 #### 2024
 - [Bayesian Differentiable Physics for Cloth Digitalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Bayesian_Differentiable_Physics_for_Cloth_Digitalization_CVPR_2024_paper.pdf) \
@@ -106,60 +96,80 @@ Table of Contents
   SIGGRAPH
 
 ## DL for Simulation
-- [Neural Cloth Simulation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555491) | [Code](https://github.com/hbertiche/NeuralClothSim/) \
-  	HUGO BERTICHE, MEYSAM MADADI, and SERGIO ESCALERA \
-  	SIGGRAPH Asia 2022
-- [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/pdf/2204.02219.pdf) | [Code](https://github.com/isantesteban/snug/tree/main) \
-  	Igor Santesteban, Miguel A. Otaduy, and Dan Casas
-	IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
+#### 2024
+- [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408) \
+  Artur Grigorev, Giorgio Becherini, Michael Black, Otmar Hilliges, Bernhard Thomaszewski \
+  SIGGRAPH
 - [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main) \
-  	Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
-  	CVPR, 2024
+  Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
+  CVPR, 2024
+#### 2023
 - [GenSim: Unsupervised Generic Garment Simulator](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Tiwari_GenSim_Unsupervised_Generic_Garment_Simulator_CVPRW_2023_paper.pdf) \
-  	Lokender Tiwari Brojeshwar Bhowmick Sanjana Sinha \
-  	CVPR Workshop, 2023
-
+  Lokender Tiwari Brojeshwar Bhowmick Sanjana Sinha \
+  CVPR Workshop, 2023
+#### 2022
+- [Neural Cloth Simulation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555491) | [Code](https://github.com/hbertiche/NeuralClothSim/) \
+  HUGO BERTICHE, MEYSAM MADADI, and SERGIO ESCALERA \
+  SIGGRAPH Asia 2022
+- [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/pdf/2204.02219.pdf) | [Code](https://github.com/isantesteban/snug/tree/main) \
+  Igor Santesteban, Miguel A. Otaduy, and Dan Casas
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
+  
 ## Inverse Cloth Simulation
+#### 2022
 - [Φ-SfT: Shape-from-Template with a Physics-Based Deformation Model](https://4dqv.mpi-inf.mpg.de/phi-SfT/) | [Code](https://github.com/navamikairanda/phi_sft/tree/main) \
-  	Navami Kairanda, Edith Tretschk, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik \
-  	CVPR, 2022
-- [Differentiable Cloth Simulation for Inverse Problems](https://gamma.umd.edu/researchdirections/virtualtryon/differentiablecloth) | [Code](https://github.com/williamljb/DifferentiableCloth/tree/master?tab=readme-ov-file)
-- [Inverse Dynamic Modeling of Cloth](https://inria.hal.science/tel-03501532v1/document)
-- [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf)
+  Navami Kairanda, Edith Tretschk, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik \
+  CVPR, 2022
+- [Differentiable Cloth Simulation for Inverse Problems](https://gamma.umd.edu/researchdirections/virtualtryon/differentiablecloth) | [Code](https://github.com/williamljb/DifferentiableCloth/tree/master?tab=readme-ov-file) \
+  Junbang Liang, Ming C. Lin, Vladlen Koltun \
+  NeurIPS, 2019
+- [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf) \
+  Tuur Stuyck, Hsiao-yu Chen \
+  ACM- Computer Graphics and Interactive Techniques, 2023
 
 
 ## Garment Retargetting
+#### 2024
+- [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
+  Ruochen Chen, Liming Chen, Shaifali Parashar \
+  3DV, 2024  
+#### 2022
 - [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
   	Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua \
   	ACCV, 2022
+#### 2023
 - [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
   	Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
   	CVPR, 2023
-- [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
-  	Ruochen Chen, Liming Chen, Shaifali Parashar \
-  	3DV, 2024  
-- [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://dancasas.github.io/docs/santesteban_NeurIPS2022.pdf)
-- [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf)
-- [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP)
-- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf)
-- [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408)
-  
+- [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP) \
+  Ren Li, Benoit Guillard, Pascal Fua \
+  NeurIPS, 2023
+- [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://dancasas.github.io/docs/santesteban_NeurIPS2022.pdf) \
+  Igor Santesteban, Miguel A. Otaduy, Nils Thuerey, Dan Casas
+  NeurIPS 2022
+- [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf) | [Code](https://github.com/isantesteban/vto-garment-collisions) \
+  Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas \
+  CVPR, 2021 
+- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf) \
+  DOHAE LEE, Yonsei University, HYUN KANG, IN-KWON LEE \
+  ACM TOG, 2023
+
 
 
 ## Avatar Generation
 #### 2024
 - [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://nvlabs.github.io/GAvatar) \
   Ye Yuan, Xueting Li, Yangyi Huang, Shalini De Mello, Koki Nagano, Jan Kautz, Umar Iqbal \
-  CVPR Highlight
+  CVPR, 2024 (Highlight)
   
 ## Garment Generation
 #### 2024
 - [Design2Cloth: 3D Cloth Generation from 2D Masks](https://jiali-zheng.github.io/Design2Cloth/) \
   Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou \
-  CVPR
+  CVPR, 20224
 - [Garment3DGen: 3D Garment Stylization and Texture Generation](https://nsarafianos.github.io/garment3dgen) \
   Nikolaos Sarafianos, Tuur Stuyck, Xiaoyu Xiang, Yilei Li, Jovan Popovic, Rakesh Ranjan \
-  ArXiv
+  ArXiv, 2024
 - [GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details](https://arxiv.org/pdf/2405.12420) \
   Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang \
   ArXiv, 2024
@@ -173,48 +183,48 @@ Table of Contents
 #### 2023
 - [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)\
   Zhaoqi Su, Liangxiao Hu, Siyou Lin, Hongwen Zhang, Shengping Zhang, Justus Thies, Yebin Liu \
-  ICCV 
+  ICCV, 2023
 - [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)\
   Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Yandong Guo, Yebin Liu \
-  CVPR
+  CVPR, 2023
 #### 2021
 - [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Saito_SCANimate_Weakly_Supervised_Learning_of_Skinned_Clothed_Avatar_Networks_CVPR_2021_paper.pdf) \
   Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black \
-  CVPR \
+  CVPR, 2021 \
   NOTE: Map to canonical t-pose
 
 ## Virtual Try On
 - [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
   	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
-  	SIGGRAPH 2024
+  	SIGGRAPH, 2024
 
 
 ## Dynamic Human Reconstruction from Multiview Video
 #### 2024
 - [Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling](https://arxiv.org/pdf/2311.16096)\
   Zhe Li, Yipengjing Sun, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu \
-  CVPR
+  CVPR, 2024 \
   NOTE: Map to Canonical
 - [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/pdf/2404.04421.pdf) \
   Yang Zheng, Qingqing Zhao, Guandao Yang, Wang Yifan, Donglai Xiang, Florian Dubost, Dmitry Lagun, Thabo Beeler, Federico Tombari, Leonidas Guibas, Gordon Wetzstein \
-  arXiv
+  ArXiv, 2024
 #### 2022
 - [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://neuralbodies.github.io/arah/) \
   Shaofei Wang,  Katja Schwarz,  Andreas Geiger,  Siyu Tang \
-  ECCV
+  ECCV, 2022
 - [TAVA: Template-free Animatable Volumetric Actors](https://github.com/facebookresearch/tava) \
-  Ruilong Li,Julian Tanke, Minh Vo, Michael Zollhoefer, Jürgen Gall, Angjoo Kanazawa, Christoph Lassner\
-  ECCV
+  Ruilong Li,Julian Tanke, Minh Vo, Michael Zollhoefer, Jürgen Gall, Angjoo Kanazawa, Christoph Lassner \
+  ECCV, 2022
 
 ## Dynamic Human Reconstruction from Monocular Video
 #### 2024
 - [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_GaussianAvatar_Towards_Realistic_Human_Avatar_Modeling_from_a_Single_Video_CVPR_2024_paper.html) \
   Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie \
-  CVPR
+  CVPR, 2024 \
   NOTE: Map to Canonical T-pose
 - [GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting](https://arxiv.org/pdf/2401.09720) \
   Mengtian Li, Shengxiang Yao, Zhifeng Xie, Keyu Chen \
-  ArXiv
+  ArXiv, 2024 \
   NOTE: Map to Canonical T-pose
   
   
@@ -222,12 +232,12 @@ Table of Contents
 #### 2023
 - [REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) \
   Lingteng Qiu1, Guanying Chen, Jiapeng Zhou, Mutian Xu, Junle Wang,Xiaoguang Han \
-  CVPR \
+  CVPR, 2023 \
   NOTE:  Deformation of T-pose template mesh
 #### 2021
 - [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/pdf/2011.12866) \
   Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler and Christian Theobalt \
-  3DV \
+  3DV, 2021 \
   NOTE: Temporal deformation
   
 ## Garment Reconstruction from Multiview Video
@@ -235,7 +245,7 @@ Table of Contents
 - [Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/) \
   Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero \
   ArXiv\
-  NOTE: Map to Canonical T-pose
+  NOTE: Map to Canonical T-pose, 2023
   
 
 ## Appearance Modelling of Avatars from Multiview Video
@@ -243,40 +253,40 @@ Table of Contents
 - [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
   Donglai Xiang, Timur Bagautdinov, Tuur Stuyck, Fabian Prada, Javier Romero, Weipeng Xu, Shunsuke Saito, Jingfan Guo, Breannan Smith, Takaaki Shiratori, 
   Yaser Sheikh, Jessica Hodgins, and Chenglei Wu \
-  ACM Transactions on Graphics (TOG)
+  ACM Transactions on Graphics (TOG), 2022
 
 ## Panel Based Garment Representation
 #### 2024
 - [DiffAvatar: Simulation-Ready Garment Optimization with Differentiable Simulation](https://arxiv.org/pdf/2311.12194#page=4.27) \
   Yifei Li, Hsiao-yu Chen, Egor Larionov, Nikolaos Sarafianos, Wojciech Matusik, Tuur Stuyck \
-  CVPR
+  CVPR, 2024
 - [Inverse Garment and Pattern Modeling with a Differentiable Simulator](https://arxiv.org/pdf/2403.06841) \
   Boyang Yu, Frederic Cordier, and Hyewon Seo \
-  ArXiv
+  ArXiv, 2024
 #### 2023
 - [Towards Garment Sewing Pattern Reconstruction from a Single Image](https://sewformer.github.io/) \
   Lijuan Liu, Xiangyu Xu, Zhijie Lin, Jiabin Liang, Shuicheng Yan \
-  SIGGRAPH ASIA
+  SIGGRAPH ASIA, 2023
 #### 2022
 - [NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments](https://dl.acm.org/doi/pdf/10.1145/3528223.3530179) \
   Maria Korosteleva and Sung-Hee Lee \	
-  ACM Transactions on Graphics (TOG)
+  ACM Transactions on Graphics (TOG), 2022
 #### 2021
 - [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://proceedings.neurips.cc/paper_files/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf) \
   Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu \
-  NeurIPS
+  NeurIPS, 2021
 
 ## Clothed Human Reconstruction from Monocular Image/Video 
 #### 2024
 - [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf) \
   Marco Pesavento, Yuanlu Xu, Nikolaos Sarafianos, Robert Maier, Ziyan Wang, Chun-Han Yao, Marco Volino, Edmond Boyer, Adrian Hilton, Tony Tung \
-  CVPR
+  CVPR, 2024
 - [SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion](https://sith-diffusion.github.io/) \
   Hsuan-I Ho, Jie Song, Otmar Hilliges \
-  CVPR
+  CVPR, 2024
 - [Garment Recovery with Shape and Deformation Priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Garment_Recovery_with_Shape_and_Deformation_Priors_CVPR_2024_paper.pdf) \
   Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua \
-  CVPR 
+  CVPR, 2024
 
 
 # Datasets
