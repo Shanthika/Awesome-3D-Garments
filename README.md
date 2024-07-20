@@ -121,18 +121,23 @@ Table of Contents
 	ArXiv, 2024
 - [WordRobe: Text-Guided Generation of Textured 3D Garments](https://arxiv.org/pdf/2403.17541) \
   	Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
-  	ArXiv, 2024
+  	ECCV, 2024
 
 
 
 ## Learning Clothed Human Deformation from 3D scans
-### 2023
+#### 2023
 - [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)\
   Zhaoqi Su, Liangxiao Hu, Siyou Lin, Hongwen Zhang, Shengping Zhang, Justus Thies, Yebin Liu \
   ICCV 
 - [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://arxiv.org/pdf/2304.03167.pdf)\
   Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Yandong Guo, Yebin Liu \
-  CVPR 
+  CVPR
+#### 2021
+- [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Saito_SCANimate_Weakly_Supervised_Learning_of_Skinned_Clothed_Avatar_Networks_CVPR_2021_paper.pdf) \
+  Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black \
+  CVPR \
+  NOTE: Map to canonical t-pose
 
 ## Virtual Try On
 - [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
@@ -141,7 +146,7 @@ Table of Contents
 
 
 ## Dynamic Human Reconstruction from Multiview Video
-### 2024
+#### 2024
 - [Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling](https://arxiv.org/pdf/2311.16096)\
   Zhe Li, Yipengjing Sun, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu \
   CVPR
@@ -149,7 +154,7 @@ Table of Contents
 - [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/pdf/2404.04421.pdf) \
   Yang Zheng, Qingqing Zhao, Guandao Yang, Wang Yifan, Donglai Xiang, Florian Dubost, Dmitry Lagun, Thabo Beeler, Federico Tombari, Leonidas Guibas, Gordon Wetzstein \
   arXiv
-### 2022
+#### 2022
 - [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://neuralbodies.github.io/arah/) \
   Shaofei Wang,  Katja Schwarz,  Andreas Geiger,  Siyu Tang \
   ECCV
@@ -158,7 +163,7 @@ Table of Contents
   ECCV
 
 ## Dynamic Human Reconstruction from Monocular Video
-### 2024
+#### 2024
 - [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_GaussianAvatar_Towards_Realistic_Human_Avatar_Modeling_from_a_Single_Video_CVPR_2024_paper.html) \
   Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie \
   CVPR
@@ -170,48 +175,48 @@ Table of Contents
   
   
 ## Garment Reconstruction from Monocular Video
-### 2023
+#### 2023
 - [REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) \
   Lingteng Qiu1, Guanying Chen, Jiapeng Zhou, Mutian Xu, Junle Wang,Xiaoguang Han \
   CVPR \
   NOTE:  Deformation of T-pose template mesh
-### 2021
+#### 2021
 - [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/pdf/2011.12866) \
   Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler and Christian Theobalt \
   3DV \
   NOTE: Temporal deformation 
 ## Garment Reconstruction from Multiview Video
-### 2023
+#### 2023
 - [Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/) \
   Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero \
   ArXiv\
   NOTE: Map to Canonical T-pose
-## Human and Garment Reconstruction Simulation and Rendering
+  
 
 ## Appearance Modelling of Avatars from Multiview Video
-### 2022
+#### 2022
 - [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
   Donglai Xiang, Timur Bagautdinov, Tuur Stuyck, Fabian Prada, Javier Romero, Weipeng Xu, Shunsuke Saito, Jingfan Guo, Breannan Smith, Takaaki Shiratori, 
   Yaser Sheikh, Jessica Hodgins, and Chenglei Wu \
   ACM Transactions on Graphics (TOG)
 
 ## Panel Based Garment Representation
-### 2024
+#### 2024
 - [DiffAvatar: Simulation-Ready Garment Optimization with Differentiable Simulation](https://arxiv.org/pdf/2311.12194#page=4.27) \
   Yifei Li, Hsiao-yu Chen, Egor Larionov, Nikolaos Sarafianos, Wojciech Matusik, Tuur Stuyck \
   CVPR
 - [Inverse Garment and Pattern Modeling with a Differentiable Simulator](https://arxiv.org/pdf/2403.06841) \
   Boyang Yu, Frederic Cordier, and Hyewon Seo \
   ArXiv
-### 2023
+#### 2023
 - [Towards Garment Sewing Pattern Reconstruction from a Single Image](https://sewformer.github.io/) \
   Lijuan Liu, Xiangyu Xu, Zhijie Lin, Jiabin Liang, Shuicheng Yan \
   SIGGRAPH ASIA
-### 2022
+#### 2022
 - [NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments](https://dl.acm.org/doi/pdf/10.1145/3528223.3530179) \
   Maria Korosteleva and Sung-Hee Lee \	
   ACM Transactions on Graphics (TOG)
-### 2021
+#### 2021
 - [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://proceedings.neurips.cc/paper_files/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf) \
   Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu \
   NeurIPS
