@@ -14,12 +14,19 @@ Table of Contents
 	- [Collision Handling and Contact Friction Modeling](#collision-handling-and-contact-friction-modeling)
 	- [DL for Simulation](#dl-for-simulation)
 	- [Inverse Cloth Simulation](#inverse-cloth-simulation)
-	- [Human and Garment Reconstruction and Simulation](#human-and-garment-reconstruction-simulation-and-rendering)
 	- [Garment Retargetting](#garment-retargetting)
-	- [Garment Generation](#garment-generation)
-	- [Single View Clothed Human Reconstruction](#single-view-clothed-human-reconstruction)
-	- [Learning Clothed Human Skinning](#learning-clothed-human-skinning)
-   	- [Virtual Try On](#virtual-try-on)
+	- [Avatar Generation](#avatar-generation)
+   	- [Garment Generation](#garment-generation)
+   	- [Learning Clothed Human Deformation from 3D scans](#learning-clothed-human-deformation-from-3d-scans)
+  	- [Virtual Try On](#virtual-try-on)
+  	- [Dynamic Human Reconstruction from Multiview Video](#dynamic-human-reconstruction-from-multiview-video)
+  	- [Dynamic Human Reconstruction from Monocular Video](#dynamic-human-reconstruction-from-monocular-view)
+  	- [Garment Reconstruction from Monocular Video](#garment-reconstruction-from-monocular-video)
+  	- [Garment Reconstruction from Multiview Video](#garment-reconstruction-from-multiview-video)
+  	- [Appearance Modeling of Avatars from Multiview Video](#appearance-modeling-of-avatar-from-multiview-video)
+  	- [Panel Based Garment Representation](#panel-based-garment-reconstruction)
+  	- [Clothed Human Reconstruction from Monocular Image or Video](#clothed-human-reconstruction-from-monocular-image-or-video)
+   	
 - [Datasets](#datasets)
 	- [Garment Dataset](#garment-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
@@ -161,6 +168,11 @@ Table of Contents
 - [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://nvlabs.github.io/GAvatar) \
   Ye Yuan, Xueting Li, Yangyi Huang, Shalini De Mello, Koki Nagano, Jan Kautz, Umar Iqbal \
   CVPR, 2024 (Highlight)
+#### 2022
+- [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
+  Donglai Xiang, Timur Bagautdinov, Tuur Stuyck, Fabian Prada, Javier Romero, Weipeng Xu, Shunsuke Saito, Jingfan Guo, Breannan Smith, Takaaki Shiratori, 
+  Yaser Sheikh, Jessica Hodgins, and Chenglei Wu \
+  ACM Transactions on Graphics (TOG), 2022
   
 ## Garment Generation
 #### 2024
@@ -246,13 +258,6 @@ Table of Contents
   ArXiv\
   NOTE: Map to Canonical T-pose, 2023
   
-
-## Appearance Modelling of Avatars from Multiview Video
-#### 2022
-- [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
-  Donglai Xiang, Timur Bagautdinov, Tuur Stuyck, Fabian Prada, Javier Romero, Weipeng Xu, Shunsuke Saito, Jingfan Guo, Breannan Smith, Takaaki Shiratori, 
-  Yaser Sheikh, Jessica Hodgins, and Chenglei Wu \
-  ACM Transactions on Graphics (TOG), 2022
 
 ## Panel Based Garment Representation
 #### 2024
