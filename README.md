@@ -33,47 +33,78 @@ Table of Contents
 
 
 # Papers
-## Classical Cloth Simulation
-- [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf)
-- [Numerical Methods in Cloth Simulation](https://www.wuwayne.com/files/clothsim/report.pdf)
-- [Implicit and Explicit Methods of Cloth Simulation](https://www.cs.ru.ac.za/research/groups/vrsig/pastprojects/052cloth/paper03.pdf)
-- [Position Based Dynamics](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf)
+## Classical Cloth Simulation 
+- [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) \
+  David Baraff, Andrew Witkin \
+  SIGGRAPH - 1998
+- [Numerical Methods in Cloth Simulation](https://www.wuwayne.com/files/clothsim/report.pdf) \
+  Gavin Hayler, Shaun Bangay and Adele Lobb
+- [Implicit and Explicit Methods of Cloth Simulation](https://www.cs.ru.ac.za/research/groups/vrsig/pastprojects/052cloth/paper03.pdf) \
+  Gavin Hayler, Shaun Bangay and Adele Lobb
+- [Position Based Dynamics](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf) \
+  Matthias Müller, Bruno Heidelberger, Marcus Hennix, John Ratcliff
 
   	#### Implementation
   	- [PBD](https://carmencincotti.com/2022-07-11/position-based-dynamics/)
   	- [Velvet](https://github.com/vitalight/Velvet)
   	  
-- [Adaptive Anisotropic Remeshing for Cloth Simulation](http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf)
+- [Adaptive Anisotropic Remeshing for Cloth Simulation](http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf) \
+  Rahul Narain, Armin Samii, James F. O’Brien \
+  SIGGRAPH Asia, 2012
 
 	#### Implementations:
 	- [ArcSim](https://github.com/DanielTakeshi/ARCSim-Installation-Instructions)
 	- [Argus](https://github.com/lijieumn/argus-distribution)
  - [Cloth simulation and collision detection using geometry images](https://ujcontent.uj.ac.za/esploro/outputs/graduate/Cloth-simulation-and-collision-detection-using/9910105707691/filesAndLinks?index=0)
- - [Multi-Layer Thick Shells](https://dl.acm.org/doi/pdf/10.1145/3588432.3591489)
+ - [Multi-Layer Thick Shells](https://dl.acm.org/doi/pdf/10.1145/3588432.3591489) 
+   
 
    
 ## Neural Cloth Simulation
+#### 2024
+- [Bayesian Differentiable Physics for Cloth Digitalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Bayesian_Differentiable_Physics_for_Cloth_Digitalization_CVPR_2024_paper.pdf) \
+  Deshan Gong, Ningtao Mao, He Wang \
+  CVPR
+- [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
+  	YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
+  	ArXiv, 2024
+#### 2023
 - [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf) \
 	Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
 	SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
   	NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
   	ArXiv, 2023
-- [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
-  	YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
-  	ArXiv, 2024
+
   
 ## Collision Handling and Contact Friction Modeling
-- [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html)
-- [Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf)
-- [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://people.csail.mit.edu/liyifei/uploads/Li-liyifei-SM-EECS-2022-thesis.pdf)
-- [Incremental Potential Contact: Intersection- and Inversion-free, Large-Deformation Dynamics](https://dl.acm.org/doi/pdf/10.1145/3386569.3392425)
-- [Inverse Elastic Shell Design with Contact and Friction](https://inria.hal.science/hal-01883655/file/inverseShellModeling.pdf)
-- [I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation](https://min-tang.github.io/home/ICloth/files/icloth.pdf)
-- [Implicit Contact Handling for Deformable Objects](https://media.disneyanimation.com/uploads/production/publication_asset/32/asset/EG2009_implicit_contact.pdf)
-- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf)
-- [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408)
-  
+#### 2022
+- [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://people.csail.mit.edu/liyifei/uploads/Li-liyifei-SM-EECS-2022-thesis.pdf) \
+  Yifei Li, Tao Du, Kui Wu, Jie Xu, Wojciech Matusik \
+  ACM TOG
+#### 2020
+- [Incremental Potential Contact: Intersection- and Inversion-free, Large-Deformation Dynamics](https://dl.acm.org/doi/pdf/10.1145/3386569.3392425) \
+  Minchen Li,  Zachary Ferguson,  Teseo Schneider,  Timothy Langlois,  Denis Zorin,  Daniele Panozzo, Chenfanfu Jiang,  Danny M. Kaufman \
+  SIGGRAPH
+#### 2018
+- [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html) \
+  Jie Li, Gilles Daviet, Rahul Narain, Florence Bertails-Descoubes, Matthew Overby, George Brown, Laurence Boissieux \
+  SIGGRAPH
+- [Inverse Elastic Shell Design with Contact and Friction](https://inria.hal.science/hal-01883655/file/inverseShellModeling.pdf) \
+  Mickaël Ly, Romain Casati, Florence Bertails-Descoubes, Mélina Skouras, Laurence Boissieux \
+  SIGGRAPH Asia
+- [I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation](https://min-tang.github.io/home/ICloth/files/icloth.pdf) \
+  Min Tang , Tongtong Wang, Zhongyuan Liu, Ruofeng Tong, and Dinesh Manocha \
+  SIGGRAPH Asia
+#### 2009
+- [Implicit Contact Handling for Deformable Objects](https://media.disneyanimation.com/uploads/production/publication_asset/32/asset/EG2009_implicit_contact.pdf) \
+  Miguel A. Otaduy, Rasmus Tamstorf, Denis Steinemann, Markus Gross \
+  EUROGRAPHICS
+#### 2002
+- [Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf) \
+  Robert Bridson, Ronald Fedkiw, John Anderson \
+  SIGGRAPH
+
 ## DL for Simulation
 - [Neural Cloth Simulation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555491) | [Code](https://github.com/hbertiche/NeuralClothSim/) \
   	HUGO BERTICHE, MEYSAM MADADI, and SERGIO ESCALERA \
@@ -97,9 +128,6 @@ Table of Contents
 - [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf)
 
 
-
-  
-  
 ## Garment Retargetting
 - [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
   	Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua \
@@ -113,6 +141,9 @@ Table of Contents
 - [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://dancasas.github.io/docs/santesteban_NeurIPS2022.pdf)
 - [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf)
 - [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP)
+- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf)
+- [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408)
+  
 
 
 ## Avatar Generation
