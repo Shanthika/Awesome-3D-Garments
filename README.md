@@ -54,52 +54,52 @@ Table of Contents
 #### 2024
 - [Bayesian Differentiable Physics for Cloth Digitalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Bayesian_Differentiable_Physics_for_Cloth_Digitalization_CVPR_2024_paper.pdf) \
   Deshan Gong, Ningtao Mao, He Wang \
-  CVPR
+  CVPR, 2024
 - [A Neural-Network-Based Approach for Loose-Fitting Clothing](https://arxiv.org/pdf/2404.16896) \
-  	YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
-  	ArXiv, 2024
+  YONGXU JIN, DALTON OMENS, ZHENGLIN GENG, JOSEPH TERAN, ABISHEK KUMAR, KENJI TASHIRO, RONALD FEDKIW \
+  ArXiv, 2024
 #### 2023
 - [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf) \
-	Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
-	SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
+  Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
+  SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
-  	NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
-  	ArXiv, 2023
+  NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
+  ArXiv, 2023
 
   
 ## Collision Handling and Contact Friction Modeling
 #### 2022
 - [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://people.csail.mit.edu/liyifei/uploads/Li-liyifei-SM-EECS-2022-thesis.pdf) \
   Yifei Li, Tao Du, Kui Wu, Jie Xu, Wojciech Matusik \
-  ACM TOG
+  ACM TOG, 2022
 #### 2020
 - [Incremental Potential Contact: Intersection- and Inversion-free, Large-Deformation Dynamics](https://dl.acm.org/doi/pdf/10.1145/3386569.3392425) \
   Minchen Li,  Zachary Ferguson,  Teseo Schneider,  Timothy Langlois,  Denis Zorin,  Daniele Panozzo, Chenfanfu Jiang,  Danny M. Kaufman \
-  SIGGRAPH
+  SIGGRAPH, 2020
 #### 2018
 - [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html) \
   Jie Li, Gilles Daviet, Rahul Narain, Florence Bertails-Descoubes, Matthew Overby, George Brown, Laurence Boissieux \
-  SIGGRAPH
+  SIGGRAPH, 2018
 - [Inverse Elastic Shell Design with Contact and Friction](https://inria.hal.science/hal-01883655/file/inverseShellModeling.pdf) \
   Mickaël Ly, Romain Casati, Florence Bertails-Descoubes, Mélina Skouras, Laurence Boissieux \
-  SIGGRAPH Asia
+  SIGGRAPH Asia, 2018
 - [I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation](https://min-tang.github.io/home/ICloth/files/icloth.pdf) \
   Min Tang , Tongtong Wang, Zhongyuan Liu, Ruofeng Tong, and Dinesh Manocha \
-  SIGGRAPH Asia
+  SIGGRAPH Asia, 2018
 #### 2009
 - [Implicit Contact Handling for Deformable Objects](https://media.disneyanimation.com/uploads/production/publication_asset/32/asset/EG2009_implicit_contact.pdf) \
   Miguel A. Otaduy, Rasmus Tamstorf, Denis Steinemann, Markus Gross \
-  EUROGRAPHICS
+  EUROGRAPHICS, 2009
 #### 2002
 - [Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf) \
   Robert Bridson, Ronald Fedkiw, John Anderson \
-  SIGGRAPH
+  SIGGRAPH, 2002
 
 ## DL for Simulation
 #### 2024
 - [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408) \
   Artur Grigorev, Giorgio Becherini, Michael Black, Otmar Hilliges, Bernhard Thomaszewski \
-  SIGGRAPH
+  SIGGRAPH, 2024
 - [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main) \
   Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
   CVPR, 2024
@@ -116,44 +116,47 @@ Table of Contents
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
   
 ## Inverse Cloth Simulation
+#### 2023
+- [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf) \
+  Tuur Stuyck, Hsiao-yu Chen \
+  ACM- Computer Graphics and Interactive Techniques, 2023
 #### 2022
 - [Φ-SfT: Shape-from-Template with a Physics-Based Deformation Model](https://4dqv.mpi-inf.mpg.de/phi-SfT/) | [Code](https://github.com/navamikairanda/phi_sft/tree/main) \
   Navami Kairanda, Edith Tretschk, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik \
   CVPR, 2022
+#### 2019
 - [Differentiable Cloth Simulation for Inverse Problems](https://gamma.umd.edu/researchdirections/virtualtryon/differentiablecloth) | [Code](https://github.com/williamljb/DifferentiableCloth/tree/master?tab=readme-ov-file) \
   Junbang Liang, Ming C. Lin, Vladlen Koltun \
   NeurIPS, 2019
-- [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf) \
-  Tuur Stuyck, Hsiao-yu Chen \
-  ACM- Computer Graphics and Interactive Techniques, 2023
+
 
 
 ## Garment Retargetting
 #### 2024
 - [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
   Ruochen Chen, Liming Chen, Shaifali Parashar \
-  3DV, 2024  
+  3DV, 2024
+#### 2023
+- [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
+  Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
+  CVPR, 2023
+- [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP) \
+  Ren Li, Benoit Guillard, Pascal Fua \
+  NeurIPS, 2023
+- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf) \
+  DOHAE LEE, Yonsei University, HYUN KANG, IN-KWON LEE \
+  ACM TOG, 2023
 #### 2022
 - [DIG: Draping Implicit Garment over the Human Body](https://arxiv.org/pdf/2209.10845) | [Code](https://github.com/liren2515/DIG) \
   	Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua \
   	ACCV, 2022
-#### 2023
-- [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
-  	Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
-  	CVPR, 2023
-- [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP) \
-  Ren Li, Benoit Guillard, Pascal Fua \
-  NeurIPS, 2023
 - [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://dancasas.github.io/docs/santesteban_NeurIPS2022.pdf) \
   Igor Santesteban, Miguel A. Otaduy, Nils Thuerey, Dan Casas
   NeurIPS 2022
+#### 2021
 - [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf) | [Code](https://github.com/isantesteban/vto-garment-collisions) \
   Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas \
   CVPR, 2021 
-- [ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes](https://arxiv.org/pdf/2304.03492.pdf) \
-  DOHAE LEE, Yonsei University, HYUN KANG, IN-KWON LEE \
-  ACM TOG, 2023
-
 
 
 ## Avatar Generation
@@ -166,7 +169,7 @@ Table of Contents
 #### 2024
 - [Design2Cloth: 3D Cloth Generation from 2D Masks](https://jiali-zheng.github.io/Design2Cloth/) \
   Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou \
-  CVPR, 20224
+  CVPR, 2024
 - [Garment3DGen: 3D Garment Stylization and Texture Generation](https://nsarafianos.github.io/garment3dgen) \
   Nikolaos Sarafianos, Tuur Stuyck, Xiaoyu Xiang, Yilei Li, Jovan Popovic, Rakesh Ranjan \
   ArXiv, 2024
@@ -176,7 +179,6 @@ Table of Contents
 - [WordRobe: Text-Guided Generation of Textured 3D Garments](https://arxiv.org/pdf/2403.17541) \
   Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
   ECCV, 2024
-
 
 
 ## Learning Clothed Human Deformation from 3D scans
@@ -194,6 +196,7 @@ Table of Contents
   NOTE: Map to canonical t-pose
 
 ## Virtual Try On
+#### 2024
 - [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
   	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
   	SIGGRAPH, 2024
