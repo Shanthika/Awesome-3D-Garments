@@ -115,13 +115,19 @@ Table of Contents
 - [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP)
 
 ## Garment Generation
-- [Garment3DGen: 3D Garment Stylization and Texture Generation](https://arxiv.org/pdf/2404.04421.pdf)
+#### 2024
+- [Design2Cloth: 3D Cloth Generation from 2D Masks](https://jiali-zheng.github.io/Design2Cloth/) \
+  Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou \
+  CVPR
+- [Garment3DGen: 3D Garment Stylization and Texture Generation](https://nsarafianos.github.io/garment3dgen) \
+  Nikolaos Sarafianos, Tuur Stuyck, Xiaoyu Xiang, Yilei Li, Jovan Popovic, Rakesh Ranjan \
+  ArXiv
 - [GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details](https://arxiv.org/pdf/2405.12420) \
-	BOQIAN LI, XUAN LI, YING JIANG1,TIANYI XIE, FENG GAO, HUAMIN WANG, YIN YANG and CHENFANFU JIANG \
-	ArXiv, 2024
+  Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang \
+  ArXiv, 2024
 - [WordRobe: Text-Guided Generation of Textured 3D Garments](https://arxiv.org/pdf/2403.17541) \
-  	Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
-  	ECCV, 2024
+  Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
+  ECCV, 2024
 
 
 
