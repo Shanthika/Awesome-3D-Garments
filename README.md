@@ -100,6 +100,9 @@ Table of Contents
 - [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408) \
   Artur Grigorev, Giorgio Becherini, Michael Black, Otmar Hilliges, Bernhard Thomaszewski \
   SIGGRAPH, 2024
+- [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
+  Ruochen Chen, Liming Chen, Shaifali Parashar \
+  3DV, 2024
 - [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main) \
   Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
   CVPR, 2024
@@ -129,13 +132,7 @@ Table of Contents
   Junbang Liang, Ming C. Lin, Vladlen Koltun \
   NeurIPS, 2019
 
-
-
 ## Garment Retargetting
-#### 2024
-- [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
-  Ruochen Chen, Liming Chen, Shaifali Parashar \
-  3DV, 2024
 #### 2023
 - [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
   Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
@@ -179,7 +176,6 @@ Table of Contents
 - [WordRobe: Text-Guided Generation of Textured 3D Garments](https://arxiv.org/pdf/2403.17541) \
   Astitva Srivastava, Pranav Manu, Amit Raj, Varun Jampani, Avinash Sharma \
   ECCV, 2024
-
 
 ## Learning Clothed Human Deformation from 3D scans
 #### 2023
