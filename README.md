@@ -114,6 +114,13 @@ Table of Contents
 - [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf)
 - [ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns](https://liren2515.github.io/page/isp/isp.html) | [Code](https://github.com/liren2515/ISP)
 
+
+## Avatar Generation
+#### 2024
+- [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://nvlabs.github.io/GAvatar) \
+  Ye Yuan, Xueting Li, Yangyi Huang, Shalini De Mello, Koki Nagano, Jan Kautz, Umar Iqbal \
+  CVPR Highlight
+  
 ## Garment Generation
 #### 2024
 - [Design2Cloth: 3D Cloth Generation from 2D Masks](https://jiali-zheng.github.io/Design2Cloth/) \
@@ -190,7 +197,8 @@ Table of Contents
 - [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/pdf/2011.12866) \
   Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler and Christian Theobalt \
   3DV \
-  NOTE: Temporal deformation 
+  NOTE: Temporal deformation
+  
 ## Garment Reconstruction from Multiview Video
 #### 2023
 - [Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/) \
@@ -228,8 +236,16 @@ Table of Contents
   NeurIPS
 
 ## Clothed Human Reconstruction from Monocular Image/Video 
-- [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf)
-- [SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion](https://sith-diffusion.github.io/)
+#### 2024
+- [ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image](https://marcopesavento.github.io/ANIM/ANIM_camera_ready.pdf) \
+  Marco Pesavento, Yuanlu Xu, Nikolaos Sarafianos, Robert Maier, Ziyan Wang, Chun-Han Yao, Marco Volino, Edmond Boyer, Adrian Hilton, Tony Tung \
+  CVPR
+- [SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion](https://sith-diffusion.github.io/) \
+  Hsuan-I Ho, Jie Song, Otmar Hilliges \
+  CVPR
+- [Garment Recovery with Shape and Deformation Priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Garment_Recovery_with_Shape_and_Deformation_Priors_CVPR_2024_paper.pdf) \
+  Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua \
+  CVPR 
 
 
 # Datasets
