@@ -245,6 +245,10 @@ Table of Contents
 - [Garment Recovery with Shape and Deformation Priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Garment_Recovery_with_Shape_and_Deformation_Priors_CVPR_2024_paper.pdf) \
   Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua \
   CVPR, 2024
+#### 2022
+- [Layered-Garment Net: Generating Multiple Implicit Garment Layers from a Single Image](https://personal.utdallas.edu/~xguo/ACCV2022.pdf) | [Code](https://github.com/alakhag/lgn?tab=readme-ov-file) \
+  Alakh Aggarwal, Jikai Wang, Steven Hogue, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo \
+  ACCV
 
 ## Learning Clothed Human Deformation from 3D scans
 #### 2023
