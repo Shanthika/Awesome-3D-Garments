@@ -246,7 +246,7 @@ Table of Contents
   Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua \
   CVPR, 2024
 - [LayerNet: High-Resolution Semantic 3D Reconstruction of Clothed People](https://www.iri.upc.edu/files/scidoc/2760-LayerNet:-high-resolution-semantic-3D-reconstruction-of-clothed-people.pdf) \
-  Enric Corona Guillem Aleny `a Gerard Pons-Moll Francesc Moreno-Noguer \
+  Enric Corona, Guillem Aleny`a, Gerard Pons-Moll, Francesc Moreno-Noguer \
   TPAMI, 2024
 #### 2022
 - [Layered-Garment Net: Generating Multiple Implicit Garment Layers from a Single Image](https://personal.utdallas.edu/~xguo/ACCV2022.pdf) | [Code](https://github.com/alakhag/lgn?tab=readme-ov-file) \
