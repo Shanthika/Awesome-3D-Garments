@@ -113,6 +113,9 @@ Table of Contents
   Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
   CVPR, 2024
 #### 2023
+- [Towards Multi-Layered 3D Garments Animation](https://arxiv.org/pdf/2305.10418) \
+  Yidi Shao, Chen Change Loy, Bo Dai \
+  ICCV, 2023
 - [GenSim: Unsupervised Generic Garment Simulator](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Tiwari_GenSim_Unsupervised_Generic_Garment_Simulator_CVPRW_2023_paper.pdf) \
   Lokender Tiwari Brojeshwar Bhowmick Sanjana Sinha \
   CVPR Workshop, 2023
@@ -123,6 +126,11 @@ Table of Contents
 - [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/pdf/2204.02219.pdf) | [Code](https://github.com/isantesteban/snug/tree/main) \
   Igor Santesteban, Miguel A. Otaduy, and Dan Casas
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
+#### 2019
+- [Learning-Based Animation of Clothing for Virtual Try-On](https://arxiv.org/pdf/1903.07190) \
+  Igor Santesteban, Miguel A. Otaduy, Dan Casas \
+  EUROGRAPHICS, 2019
+
   
 ## Inverse Cloth Simulation
 #### 2023
@@ -137,6 +145,7 @@ Table of Contents
 - [Differentiable Cloth Simulation for Inverse Problems](https://gamma.umd.edu/researchdirections/virtualtryon/differentiablecloth) | [Code](https://github.com/williamljb/DifferentiableCloth/tree/master?tab=readme-ov-file) \
   Junbang Liang, Ming C. Lin, Vladlen Koltun \
   NeurIPS, 2019
+  
 
 ## Avatar Generation
 #### 2024
@@ -199,6 +208,10 @@ Table of Contents
   Lingteng Qiu1, Guanying Chen, Jiapeng Zhou, Mutian Xu, Junle Wang,Xiaoguang Han \
   CVPR, 2023 \
   NOTE:  Deformation of T-pose template mesh
+#### 2022
+- [PERGAMO: Personalized 3D Garments from Monocular Video]https://arxiv.org/pdf/2210.15040) \
+  Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas \
+  SIGGRAPH, 2022
 #### 2021
 - [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/pdf/2011.12866) \
   Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler and Christian Theobalt \
@@ -253,7 +266,7 @@ Table of Contents
   Alakh Aggarwal, Jikai Wang, Steven Hogue, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo \
   ACCV
 
-## Learning Clothed Human Deformation from 3D scans
+## Learning Clothed Human Deformation from 3D scans 
 #### 2023
 - [CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/assets/pdf/CaPhy.pdf)\
   Zhaoqi Su, Liangxiao Hu, Siyou Lin, Hongwen Zhang, Shengping Zhang, Justus Thies, Yebin Liu \
@@ -266,6 +279,14 @@ Table of Contents
   Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black \
   CVPR, 2021 \
   NOTE: Map to canonical t-pose
+#### 2018
+- [DeepWrinkles: Accurate and Realistic Clothing Modeling](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf) \
+  Zorah Lahner, Daniel Cremers, Tony Tung \
+  ECCV, 2018
+#### 2017
+- [ClothCap: Seamless 4D Clothing Capture and Retargeting](https://dl.acm.org/doi/pdf/10.1145/3072959.3073711) \
+  Gerard Pons-Moll, Sergi Pujades, Sonny Hu, and Michael J. Black \
+  ACM- TOG, 2017
   
 ## Garment Retargetting
 #### 2023
@@ -288,7 +309,14 @@ Table of Contents
 #### 2021
 - [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://dancasas.github.io/docs/santesteban_CVPR2021.pdf) | [Code](https://github.com/isantesteban/vto-garment-collisions) \
   Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas \
-  CVPR, 2021 
+  CVPR, 2021
+- [M3D-VTON: A Monocular-to-3D Virtual Try-On Network](https://arxiv.org/pdf/2108.05126) \
+  Fuwei Zhao, Zhenyu Xie, Michael Kampffmeyer, Haoye Dong, Songfang Han, Tianxiang Zheng, Tao Zhang, Xiaodan Lian\
+  ICCV, 2021
+#### 2020
+- [Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On](https://arxiv.org/pdf/2009.04592) \
+  Raquel Vidaurre, Igor Santesteban, Elena Garces, Dan Casas \
+  SIGGRAPH, 2020
 
 ## Virtual Try On
 #### 2024
