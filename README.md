@@ -209,7 +209,7 @@ Table of Contents
   CVPR, 2023 \
   NOTE:  Deformation of T-pose template mesh
 #### 2022
-- [PERGAMO: Personalized 3D Garments from Monocular Video]https://arxiv.org/pdf/2210.15040) \
+- [PERGAMO: Personalized 3D Garments from Monocular Video](https://arxiv.org/pdf/2210.15040) \
   Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas \
   SIGGRAPH, 2022
 #### 2021
