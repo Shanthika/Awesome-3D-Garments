@@ -192,6 +192,9 @@ Table of Contents
 
 ## Dynamic Human Reconstruction from Monocular Video
 #### 2024
+- [ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild](https://moygcc.github.io/ReLoo/) \
+  Chen Guo, Tianjian Jiang, Manuel Kaufmann, Chengwei Zheng, Julien Valentin, Jie Song, Otmar Hilliges \
+  ECCV 2024
 - [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_GaussianAvatar_Towards_Realistic_Human_Avatar_Modeling_from_a_Single_Video_CVPR_2024_paper.html) \
   Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie \
   CVPR, 2024 \
