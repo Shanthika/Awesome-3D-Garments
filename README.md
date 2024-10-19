@@ -381,4 +381,7 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 ### 6. [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
 <img src="images/MultiHuman.jpg" width="600">
 
+### 7. [4D Human Outfit](https://kinovis.inria.fr/4dhumanoutfit/)
+<img src="images/4DHumanOutfit.png" width="600">
+
 
