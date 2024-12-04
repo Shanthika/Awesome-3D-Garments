@@ -1,4 +1,4 @@
-# Awesome-3D-Garments
+![image](https://github.com/user-attachments/assets/6925693e-a27a-4e22-b778-6a85861726b6)# Awesome-3D-Garments
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -342,46 +342,73 @@ They provide a collection of 3D garments obtained from 3D reconstruction of imag
 
 
 ### 3. [MGN](https://virtualhumans.mpi-inf.mpg.de/mgn)
+426 3D scans of people with various body shapes, poses and in diverse clothing, with garment segmentations provided.  
+
 <img src="images/mgn.png" width="600">
 
 
 ### 4. [SIZER](https://virtualhumans.mpi-inf.mpg.de/sizer/)
+Consists of 100 different subjects wearing casual clothing items in various sizes, totaling to approximately 2000 scans. This dataset includes the scans, registrations to the SMPL model, scans segmented in clothing parts, garment category and size labels.
+
 <img src="images/sizer.jpg" width="600">
 
 
 ### 5. [Generating Datasets of 3D Garments with Sewing Patterns](https://github.com/maria-korosteleva/Garment-Pattern-Generator)
 <img src="images/sewing_patterns.png" width="600">
 
-### 6. [Simulated garment dataset for virtual try-on](https://github.com/isantesteban/vto-dataset)
+
+### 6. [GarmentCodeData]([https://github.com/maria-korosteleva/Garment-Pattern-Generator](https://igl.ethz.ch/projects/GarmentCodeData/))
+GarmentCodeData contains 115,000 data points that cover a variety of designs in many common garment categories: tops, shirts, dresses, jumpsuits, skirts, pants, etc., fitted to a variety of body shapes.
+
+<img src="images/garment_code.png" width="600">
+
+
+### 7. [Simulated garment dataset for virtual try-on](https://github.com/isantesteban/vto-dataset)
+The data is generated used a modified version of ARCSim and sequences from the CMU Motion Capture Database converted to SMPL format in SURREAL.
+
 <img src="images/vto.gif" width="600">
 
 
 ## Clothed Human Dataset
 ### 1. [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
+3DHumans dataset provides around 180 meshes of people in diverse body shapes in various garments styles and sizes. We cover a wide variety of clothing styles, ranging from loose robed clothing, like saree (a typical South-Asian dress) to relatively tight fit clothing, like shirts and trousers. Along with the high quality geometry (mesh) and texture map, we also provide registered SMPL's parameters. 
+
 <img src="images/3dhumans.png" width="600">
 
 
 ### 2. [THuman](https://github.com/ytrock/THuman2.0-Dataset)
+Dataset contains 500 high-quality human scans captured by a dense DLSR rig. For each scan, we provide the 3D model, the corresponding texture map and SMPL-X fitting parameters and corresponding meshes.
+
 <img src="images/thuman.jpg" width="600">
 
 
-
 ### 3. [XHumans](https://github.com/Skype-line/X-Avatar)
+Contains 233 sequences of high-quality textured scans from 20 participants, totalling about 35,500 data frames.
+
 <img src="images/xhumans.png" width="600">
 
 
-
 ### 4. [BUFF](https://buff.is.tue.mpg.de/)
+BUFF consists of 6 subjects, 3 male and 3 female wearing 2 clothing styles: a) t-shirt and long pants and b) a soccer outfit. The sequence lengths range between 4 to 9 seconds (200-500 frames) totaling 13,632 3D scans.
+	
 <img src="images/buff.png" width="600">
 
 
 ### 5. [4D-DRESS Dataset Subjects](https://eth-ait.github.io/4d-dress/)
+Contains captures dynamic motions of 4 dresses, 28 lower, 30 upper, and 32 outer garments. For each garment, we also provide its canonical template mesh to benefit the future human clothing study.
+
 <img src="images/4d_dress.png" width="600">
 
+
 ### 6. [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
+Contains 453 high-quality 3D human scans with raw obj mesh files and texture maps. Each scan contains 1-3 persons.
+
 <img src="images/MultiHuman.jpg" width="600">
 
+
 ### 7. [4D Human Outfit](https://kinovis.inria.fr/4dhumanoutfit/)
+4DHumanOutfit is a new dataset of 4D human motion sequences, sampled densely in space and time, with 20 actors, dressed in 7 outfits each, and performing 11 motions exhibiting large displacements in each outfit. 
+
 <img src="images/4DHumanOutfit.png" width="600">
 
 
