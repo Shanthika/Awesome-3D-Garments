@@ -357,7 +357,7 @@ Consists of 100 different subjects wearing casual clothing items in various size
 <img src="images/sewing_patterns.png" width="600">
 
 
-### 6. [GarmentCodeData]([https://github.com/maria-korosteleva/Garment-Pattern-Generator](https://igl.ethz.ch/projects/GarmentCodeData/))
+### 6. [GarmentCodeData](https://igl.ethz.ch/projects/GarmentCodeData/)
 GarmentCodeData contains 115,000 data points that cover a variety of designs in many common garment categories: tops, shirts, dresses, jumpsuits, skirts, pants, etc., fitted to a variety of body shapes.
 
 <img src="images/garment_code.png" width="600">
