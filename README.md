@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6925693e-a27a-4e22-b778-6a85861726b6)# Awesome-3D-Garments
+# Awesome-3D-Garments
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -354,10 +354,12 @@ Consists of 100 different subjects wearing casual clothing items in various size
 
 
 ### 5. [Generating Datasets of 3D Garments with Sewing Patterns](https://github.com/maria-korosteleva/Garment-Pattern-Generator)
+The dataset contains 23500 samples, with ach instance of the dataset is a garment design sample,  described as a sewing patterns, draped 3D models,  one clean,  one noisy imitating artifacts of 3D scanning process, and renders of the clean 3D model as draped over the body.  Every instance is a variation of one of the 19 base garment designs.
+
 <img src="images/sewing_patterns.png" width="600">
 
 
-### 6. [GarmentCodeData](https://igl.ethz.ch/projects/GarmentCodeData/)
+### 6. [GarmentCodeData]([https://github.com/maria-korosteleva/Garment-Pattern-Generator](https://igl.ethz.ch/projects/GarmentCodeData/))
 GarmentCodeData contains 115,000 data points that cover a variety of designs in many common garment categories: tops, shirts, dresses, jumpsuits, skirts, pants, etc., fitted to a variety of body shapes.
 
 <img src="images/garment_code.png" width="600">
