@@ -103,6 +103,10 @@ Table of Contents
 
 ## DL for Simulation
 #### 2024
+- [SENC: Handling Self-collision in Neural Cloth Simulation](https://zycliao.com/senc/) \
+  Zhouyingcheng Liao, Sinan Wang, Taku Komura \
+  ECCV 2024
+  
 - [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408) \
   Artur Grigorev, Giorgio Becherini, Michael Black, Otmar Hilliges, Bernhard Thomaszewski \
   SIGGRAPH, 2024
