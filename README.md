@@ -103,6 +103,10 @@ Table of Contents
 
 ## DL for Simulation
 #### 2024
+- [Neural Garment Dynamics via Manifold-Aware Transformers](https://peizhuoli.github.io/manifold-aware-transformers/) \
+  Peizhuo Li, Tuanfeng Y. Wang, Timur Levent Kesdogan, Duygu Ceylan, Olga Sorkine-Hornung \
+  EUROGRAPHICS 2024
+  
 - [SENC: Handling Self-collision in Neural Cloth Simulation](https://zycliao.com/senc/) \
   Zhouyingcheng Liao, Sinan Wang, Taku Komura \
   ECCV 2024
