@@ -98,7 +98,7 @@ Table of Contents
   SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
   NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
-  ArXiv, 2023
+  NeurIPS, 2024
 
 
 ## DL for Simulation
