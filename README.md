@@ -304,6 +304,11 @@ Table of Contents
   ACM- TOG, 2017
   
 ## Garment Retargetting
+#### 2025
+- [Intersection-free Garment Retargeting](https://huangzizhou.github.io/research/cloth.html)
+  Zizhou Huang, Chrystiano Araújo, Andrew Kunz, Daniele Panozzo, Denis Zorin, Victor Zordan
+  Siggraph 2025
+
 #### 2023
 - [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
   Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
