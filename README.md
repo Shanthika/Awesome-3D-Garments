@@ -114,12 +114,20 @@ Table of Contents
 - [ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](https://dl.acm.org/doi/pdf/10.1145/3641519.3657408) \
   Artur Grigorev, Giorgio Becherini, Michael Black, Otmar Hilliges, Bernhard Thomaszewski \
   SIGGRAPH, 2024
+  
 - [GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping](https://arxiv.org/pdf/2312.01490.pdf) | [Code](https://github.com/simonhfls/gaps) \
   Ruochen Chen, Liming Chen, Shaifali Parashar \
   3DV, 2024
+  
 - [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://arxiv.org/pdf/2212.07242.pdf) | [Code](https://github.com/Dolorousrtur/HOOD/tree/main) \
   Artur Grigorev, Bernhard Thomaszewski, Michael J. Black, Otmar Hilliges \
   CVPR, 2024
+
+- [DiffusedWrinkles: A Diffusion-Based Model for Data-Driven Garment Animation](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_352/paper.pdf)\
+  Raquel Vidaurre, Elena Garcés, Dan Casas
+  BMVC, 2024
+
+  
 #### 2023
 - [Towards Multi-Layered 3D Garments Animation](https://arxiv.org/pdf/2305.10418) \
   Yidi Shao, Chen Change Loy, Bo Dai \
