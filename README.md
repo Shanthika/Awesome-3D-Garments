@@ -149,6 +149,11 @@ Table of Contents
 
   
 ## Inverse Cloth Simulation
+
+#### 2025
+- [SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://openaccess.thecvf.com/content/ICCV2025/papers/Stotko_SAFT_Shape_and_Appearance_of_Fabrics_from_Template_via_Differentiable_ICCV_2025_paper.pdf) \
+	David Stotko, Reinhard Klein \
+	ICCV, 2025
 #### 2023
 - [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf) \
   Tuur Stuyck, Hsiao-yu Chen \
