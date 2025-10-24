@@ -97,7 +97,7 @@ Table of Contents
   Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon \
   SIGGRAPH '23: ACM SIGGRAPH 2023 Conference Proceedings
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://arxiv.org/pdf/2308.12970.pdf) \
-  NAVAMI KAIRANDA, MARC HABERMANN, CHRISTIAN THEOBALT, and VLADISLAV GOLYANIK
+  Navami Kairanda, Marc Habermann, Christian Theobalt and Vladislav Golyanik \
   NeurIPS, 2024
 
 
@@ -124,7 +124,7 @@ Table of Contents
   CVPR, 2024
 
 - [DiffusedWrinkles: A Diffusion-Based Model for Data-Driven Garment Animation](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_352/paper.pdf)\
-  Raquel Vidaurre, Elena Garcés, Dan Casas
+  Raquel Vidaurre, Elena Garcés, Dan Casas \
   BMVC, 2024
 
   
@@ -140,8 +140,8 @@ Table of Contents
   HUGO BERTICHE, MEYSAM MADADI, and SERGIO ESCALERA \
   SIGGRAPH Asia 2022
 - [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/pdf/2204.02219.pdf) | [Code](https://github.com/isantesteban/snug/tree/main) \
-  Igor Santesteban, Miguel A. Otaduy, and Dan Casas
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)
+  Igor Santesteban, Miguel A. Otaduy, and Dan Casas \
+  CVPR, 2022
 #### 2019
 - [Learning-Based Animation of Clothing for Virtual Try-On](https://arxiv.org/pdf/1903.07190) \
   Igor Santesteban, Miguel A. Otaduy, Dan Casas \
@@ -154,6 +154,9 @@ Table of Contents
 - [SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://openaccess.thecvf.com/content/ICCV2025/papers/Stotko_SAFT_Shape_and_Appearance_of_Fabrics_from_Template_via_Differentiable_ICCV_2025_paper.pdf) \
 	David Stotko, Reinhard Klein \
 	ICCV, 2025
+- [Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields](https://openaccess.thecvf.com/content/CVPR2025/papers/Kairanda_Thin-Shell-SfT_Fine-Grained_Monocular_Non-rigid_3D_Surface_Tracking_with_Neural_Deformation_CVPR_2025_paper.pdf) \
+	Navami Kairanda, Marc Habermann1, Shanthika Naik, Christian Theobalt, Vladislav Golyanik \
+	CVPR, 2025
 #### 2023
 - [DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics](https://arxiv.org/pdf/2301.01396.pdf) \
   Tuur Stuyck, Hsiao-yu Chen \
@@ -174,7 +177,7 @@ Table of Contents
   Ye Yuan, Xueting Li, Yangyi Huang, Shalini De Mello, Koki Nagano, Jan Kautz, Umar Iqbal \
   CVPR, 2024 (Highlight)
 #### 2022
-- [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf)
+- [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf) \
   Donglai Xiang, Timur Bagautdinov, Tuur Stuyck, Fabian Prada, Javier Romero, Weipeng Xu, Shunsuke Saito, Jingfan Guo, Breannan Smith, Takaaki Shiratori, 
   Yaser Sheikh, Jessica Hodgins, and Chenglei Wu \
   ACM Transactions on Graphics (TOG), 2022
@@ -227,9 +230,13 @@ Table of Contents
   
   
 ## Garment Reconstruction from Monocular Video
+#### 2025
+- [NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction](https://astonishingwolf.github.io/pages/NGD/) \
+	Soham Dasgupta, Shanthika Naik, Preet Savalia, Sujay Kumar Ingle, Avinash Sharma \
+	ICCV, 2025
 #### 2023
 - [REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) \
-  Lingteng Qiu1, Guanying Chen, Jiapeng Zhou, Mutian Xu, Junle Wang,Xiaoguang Han \
+  Lingteng Qiu1, Guanying Chen, Jiapeng Zhou, Mutian Xu, Junle Wang, Xiaoguang Han \
   CVPR, 2023 \
   NOTE:  Deformation of T-pose template mesh
 #### 2022
@@ -318,8 +325,8 @@ Table of Contents
   
 ## Garment Retargetting
 #### 2025
-- [Intersection-free Garment Retargeting](https://huangzizhou.github.io/research/cloth.html)
-  Zizhou Huang, Chrystiano Araújo, Andrew Kunz, Daniele Panozzo, Denis Zorin, Victor Zordan
+- [Intersection-free Garment Retargeting](https://huangzizhou.github.io/research/cloth.html) \
+  Zizhou Huang, Chrystiano Araújo, Andrew Kunz, Daniele Panozzo, Denis Zorin, Victor Zordan \
   Siggraph 2025
 
 #### 2023
