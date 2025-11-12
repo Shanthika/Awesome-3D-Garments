@@ -359,6 +359,10 @@ Table of Contents
   SIGGRAPH, 2020
 
 ## Virtual Try On
+#### 2025 
+- [LUIVITON: Learned Universal Interoperable VIrtual Try-ON](https://arxiv.org/pdf/2509.05030)
+  Cong Cao, Xianhang Cheng, Jingyuan Liu, Yujian Zheng,Zhenhui Lin, Meriem Chkir, Hao Li
+  Arxiv, 2025
 #### 2024
 - [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
   	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
