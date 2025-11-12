@@ -325,10 +325,12 @@ Table of Contents
   
 ## Garment Retargetting
 #### 2025
+- [LUIVITON: Learned Universal Interoperable VIrtual Try-ON](https://arxiv.org/pdf/2509.05030)\
+  Cong Cao, Xianhang Cheng, Jingyuan Liu, Yujian Zheng,Zhenhui Lin, Meriem Chkir, Hao Li\
+  Arxiv, 2025
 - [Intersection-free Garment Retargeting](https://huangzizhou.github.io/research/cloth.html) \
   Zizhou Huang, Chrystiano Araújo, Andrew Kunz, Daniele Panozzo, Denis Zorin, Victor Zordan \
   Siggraph 2025
-
 #### 2023
 - [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | [Code](https://github.com/liren2515/DrapeNet) \
   Luca De Luigi, Ren Li, Benoit Guillard, Mathieu Salzmann, Pascal Fua \
@@ -359,10 +361,6 @@ Table of Contents
   SIGGRAPH, 2020
 
 ## Virtual Try On
-#### 2025 
-- [LUIVITON: Learned Universal Interoperable VIrtual Try-ON](https://arxiv.org/pdf/2509.05030)
-  Cong Cao, Xianhang Cheng, Jingyuan Liu, Yujian Zheng,Zhenhui Lin, Meriem Chkir, Hao Li
-  Arxiv, 2025
 #### 2024
 - [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/pdf/2405.07319)\
   	Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu \
