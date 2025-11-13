@@ -259,7 +259,7 @@ Table of Contents
 
 ## Panel Based Garment Representation
 #### 2025
-- [Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](#https://arxiv.org/pdf/2502.03449) \
+- [Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](https://arxiv.org/pdf/2502.03449) \
   Xuan Li, Chang Yu, Wenxin Du, Ying Jiang, Tianyi Xie, Yunuo Chen, Yin Yang, Chenfanfu Jiang \
   ArXiv
 #### 2024
