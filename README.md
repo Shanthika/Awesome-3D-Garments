@@ -19,7 +19,7 @@ Table of Contents
   	- [Dynamic Human Reconstruction from Multiview Video](#dynamic-human-reconstruction-from-multiview-video)
   	- [Dynamic Human Reconstruction from Monocular Video](#dynamic-human-reconstruction-from-monocular-view)
   	- [Garment Reconstruction from Monocular Video](#garment-reconstruction-from-monocular-video)
-  	- [Garment Reconstruction from Multiview Video](#garment-reconstruction-from-multiview-video)
+  	- [Garment Reconstruction from Multiview Images or Video](#garment-reconstruction-from-multiview-images-or-video)
   	- [Panel Based Garment Representation](#panel-based-garment-reconstruction)
   	- [Clothed Human Reconstruction from Monocular Image or Video](#clothed-human-reconstruction-from-monocular-image-or-video)
   	- [Learning Clothed Human Deformation from 3D scans](#learning-clothed-human-deformation-from-3d-scans)
@@ -249,7 +249,11 @@ Table of Contents
   3DV, 2021 \
   NOTE: Temporal deformation
   
-## Garment Reconstruction from Multiview Video
+## Garment Reconstruction from Multiview Images or Videos
+#### 2025
+- [PGC: Physics-Based Gaussian Cloth from a Single Pose](https://phys-gaussian-cloth.github.io/) \
+	Michelle Guo, Matt Jen-Yuan Chiang, Igor Santesteban, Nikolaos Sarafianos, Hsiao-yu Chen, Oshri Halimi, Aljaz Bozic, Shunsuke Saito, Jiajun Wu, C. Karen Liu, Tuur Stuyck, Egor Larionov \
+	CVPR, 2025
 #### 2023
 - [Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/) \
   Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero \
