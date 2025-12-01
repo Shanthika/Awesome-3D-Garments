@@ -419,6 +419,14 @@ The data is generated used a modified version of ARCSim and sequences from the C
 
 ### 1. [VR-Folding](https://huggingface.co/datasets/robotflow/vr-folding) 
 
+
+### 2. [CLOTH4D](https://github.com/AemikaChow/CLOTH4D?tab=readme-ov-file)
+
+
+### 3. [ClothesNet](https://sites.google.com/view/clothesnet)
+
+
+
 ## Clothed Human Dataset
 ### 1. [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
 3DHumans dataset provides around 180 meshes of people in diverse body shapes in various garments styles and sizes. We cover a wide variety of clothing styles, ranging from loose robed clothing, like saree (a typical South-Asian dress) to relatively tight fit clothing, like shirts and trousers. Along with the high quality geometry (mesh) and texture map, we also provide registered SMPL's parameters. 
