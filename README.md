@@ -28,7 +28,7 @@ Table of Contents
    	
 - [Datasets](#datasets)
 	- [Draped Garment Dataset](#draped-garment-dataset)
-	- [Garment Manipulation Dataset](#-garment-manipulation-dataset)
+	- [Garment Manipulation Dataset](#garment-manipulation-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
 
 
