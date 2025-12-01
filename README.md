@@ -27,7 +27,8 @@ Table of Contents
    	- [Virtual Try On](#virtual-try-on)
    	
 - [Datasets](#datasets)
-	- [Garment Dataset](#garment-dataset)
+	- [Draped Garment Dataset](#draped-garment-dataset)
+	- [Garment Manipulation Dataset](#-garment-manipulation-dataset)
 	- [Clothed Human Dataset](#clothed-human-dataset)
 
 
@@ -372,7 +373,7 @@ Table of Contents
 
   
 # Datasets
-## Garment Dataset 
+## Draped Garment Dataset 
 ### 1. [Cloth3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/)
 This dataset contains a large collection of synthetic garment data obtained via animation SMPL models wearing different garments. They contain 6 different categories: t-shirt, top, dress, trousers, skirts and jumpsuits; each with different variation in topology such as length of sleeves, torso, legs, distance from body etc.  They also provide UV mapping, allowing one to swap in any desired textures. 
 <img src="images/cloth3d.png" width="600">
@@ -413,6 +414,10 @@ The data is generated used a modified version of ARCSim and sequences from the C
 
 <img src="images/vto.gif" width="600">
 
+
+## Garment Manipulation Dataset
+
+### 1. [VR-Folding](https://huggingface.co/datasets/robotflow/vr-folding) 
 
 ## Clothed Human Dataset
 ### 1. [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
