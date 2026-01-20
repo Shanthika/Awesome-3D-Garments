@@ -264,6 +264,9 @@ Table of Contents
 
 ## Panel Based Garment Representation
 #### 2025
+- [GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling](https://dl.acm.org/doi/10.1145/3763271) \
+  Siran Li, Ruiyang Liu, Chen Liu, Zhendong Wang, Gaofeng He, Yong-Lu Li, Xiaogang Jin, Huamin Wang \
+  ACM Transactions on Graphics (TOG), 2025
 - [Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](https://arxiv.org/pdf/2502.03449) \
   Xuan Li, Chang Yu, Wenxin Du, Ying Jiang, Tianyi Xie, Yunuo Chen, Yin Yang, Chenfanfu Jiang \
   ArXiv
