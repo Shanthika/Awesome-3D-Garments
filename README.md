@@ -333,6 +333,9 @@ Table of Contents
   
 ## Garment Retargetting
 #### 2025
+- [Progressive Outfit Assembly and Instantaneous Pose Transfer](https://dl.acm.org/doi/epdf/10.1145/3757377.3763868) \
+  Dewen Guo, Zhendong Wang, Zegao Liu, Sheng Li, Guoping Wang, Yin Yang and Huamin Wang \
+  Siggraph Asia 2025
 - [LUIVITON: Learned Universal Interoperable VIrtual Try-ON](https://arxiv.org/pdf/2509.05030)\
   Cong Cao, Xianhang Cheng, Jingyuan Liu, Yujian Zheng,Zhenhui Lin, Meriem Chkir, Hao Li\
   Arxiv, 2025
