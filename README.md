@@ -421,15 +421,20 @@ The data is generated used a modified version of ARCSim and sequences from the C
 <img src="images/vto.gif" width="600">
 
 
+### 8. [ClothesNet](https://sites.google.com/view/clothesnet)
+A large-scale dataset of 3D clothes objects with information-rich annotations. The dataset consists of around 4400 models covering 11 categories annotated with clothes features, boundary lines, and key points.
+
+<img src="images/clothesnet.png" width="600">
+
+
+
+
 ## Garment Manipulation Dataset
 
 ### 1. [VR-Folding](https://huggingface.co/datasets/robotflow/vr-folding) 
 
 
 ### 2. [CLOTH4D](https://github.com/AemikaChow/CLOTH4D?tab=readme-ov-file)
-
-
-### 3. [ClothesNet](https://sites.google.com/view/clothesnet)
 
 
 
