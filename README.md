@@ -403,41 +403,44 @@ Consists of 100 different subjects wearing casual clothing items in various size
 <img src="images/sizer.jpg" width="600">
 
 
-### 5. [Generating Datasets of 3D Garments with Sewing Patterns](https://github.com/maria-korosteleva/Garment-Pattern-Generator)
+### 5. [Simulated garment dataset for virtual try-on](https://github.com/isantesteban/vto-dataset)
+The data is generated used a modified version of ARCSim and sequences from the CMU Motion Capture Database converted to SMPL format in SURREAL.
+
+<img src="images/vto.gif" width="600">
+
+### 6. [Generating Datasets of 3D Garments with Sewing Patterns](https://github.com/maria-korosteleva/Garment-Pattern-Generator)
 The dataset contains 23500 samples, with ach instance of the dataset is a garment design sample,  described as a sewing patterns, draped 3D models,  one clean,  one noisy imitating artifacts of 3D scanning process, and renders of the clean 3D model as draped over the body.  Every instance is a variation of one of the 19 base garment designs.
 
 <img src="images/sewing_patterns.png" width="600">
 
 
-### 6. [GarmentCodeData](https://igl.ethz.ch/projects/GarmentCodeData/)
+### 7. [GarmentCodeData](https://igl.ethz.ch/projects/GarmentCodeData/)
 GarmentCodeData contains 115,000 data points that cover a variety of designs in many common garment categories: tops, shirts, dresses, jumpsuits, skirts, pants, etc., fitted to a variety of body shapes.
 
 <img src="images/garment_code.png" width="600">
 
 
-### 7. [Simulated garment dataset for virtual try-on](https://github.com/isantesteban/vto-dataset)
-The data is generated used a modified version of ARCSim and sequences from the CMU Motion Capture Database converted to SMPL format in SURREAL.
-
-<img src="images/vto.gif" width="600">
-
-
-### 8. [ClothesNet](https://sites.google.com/view/clothesnet)
-A large-scale dataset of 3D clothes objects with information-rich annotations. The dataset consists of around 4400 models covering 11 categories annotated with clothes features, boundary lines, and key points.
-
-<img src="images/clothesnet.png" width="600">
-
-### 9. [GarmageSet](https://huggingface.co/datasets/Style3D/GarmageSet) 
+### 8. [GarmageSet](https://huggingface.co/datasets/Style3D/GarmageSet) 
 A large-scale professionally-curated garment dataset is introduced in the paper GarmageNet. GarmageSet comprises 14,801 professionally designed garments with detailed structural and style annotations.
 
 <img src="images/garmageset.png" width="600">
 
+
+
+### 9. [ClothesNet](https://sites.google.com/view/clothesnet)
+A large-scale dataset of 3D clothes objects with information-rich annotations. The dataset consists of around 4400 models covering 11 categories annotated with clothes features, boundary lines, and key points.
+
+<img src="images/clothesnet.png" width="600">
+
+
+
+### 10. [CLOTH4D](https://github.com/AemikaChow/CLOTH4D?tab=readme-ov-file)
 
 ## Garment Manipulation Dataset
 
 ### 1. [VR-Folding](https://huggingface.co/datasets/robotflow/vr-folding) 
 
 
-### 2. [CLOTH4D](https://github.com/AemikaChow/CLOTH4D?tab=readme-ov-file)
 
 
 
