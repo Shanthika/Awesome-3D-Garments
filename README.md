@@ -426,10 +426,10 @@ A large-scale dataset of 3D clothes objects with information-rich annotations. T
 
 <img src="images/clothesnet.png" width="600">
 
-### 9. [GarmageSet](https://huggingface.co/datasets/Style3D/GarmageSet) \
+### 9. [GarmageSet](https://huggingface.co/datasets/Style3D/GarmageSet) 
 A large-scale professionally-curated garment dataset is introduced in the paper GarmageNet. GarmageSet comprises 14,801 professionally designed garments with detailed structural and style annotations.
 
-<img src="https://huggingface.co/datasets/Style3D/GarmageSet/blob/main/assets/title.png" width="600">
+<img src="images/garmageset.png" width="600">
 
 
 ## Garment Manipulation Dataset
