@@ -1,4 +1,4 @@
-<img width="6000" height="1000" alt="image" src="https://github.com/user-attachments/assets/edb27590-5e06-4b17-82d9-baf4074149c7" /><img width="6000" height="1000" alt="image" src="https://github.com/user-attachments/assets/edb27590-5e06-4b17-82d9-baf4074149c7" /># Awesome-3D-Garments
+# Awesome-3D-Garments
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
