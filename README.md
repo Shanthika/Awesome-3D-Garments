@@ -1,4 +1,4 @@
-# Awesome-3D-Garments
+<img width="6000" height="1000" alt="image" src="https://github.com/user-attachments/assets/edb27590-5e06-4b17-82d9-baf4074149c7" /><img width="6000" height="1000" alt="image" src="https://github.com/user-attachments/assets/edb27590-5e06-4b17-82d9-baf4074149c7" /># Awesome-3D-Garments
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -426,7 +426,10 @@ A large-scale dataset of 3D clothes objects with information-rich annotations. T
 
 <img src="images/clothesnet.png" width="600">
 
+### 9. [GarmageSet](https://huggingface.co/datasets/Style3D/GarmageSet) \
+A large-scale professionally-curated garment dataset is introduced in the paper GarmageNet. GarmageSet comprises 14,801 professionally designed garments with detailed structural and style annotations.
 
+<img src="https://huggingface.co/datasets/Style3D/GarmageSet/blob/main/assets/title.png" width="600">
 
 
 ## Garment Manipulation Dataset
