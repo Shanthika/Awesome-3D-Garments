@@ -185,6 +185,9 @@ Table of Contents
   
 ## Garment Generation
 #### 2024
+- [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](https://ihe-kaii.github.io/DressCode/) \
+  Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu \
+  SIGGRAPH, 2024
 - [Design2Cloth: 3D Cloth Generation from 2D Masks](https://jiali-zheng.github.io/Design2Cloth/) \
   Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou \
   CVPR, 2024
