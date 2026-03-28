@@ -103,6 +103,11 @@ Table of Contents
 
 
 ## DL for Simulation
+#### 2026
+- [UNIC: Neural Garment Deformation Field for Real-Time Clothed Character Animation](https://igl-hkust.github.io/UNIC/) \
+  Chengfeng Zhao, Junbo Qi, Yulou Liu, Zhiyang Dou, Minchen Li, Taku Komura, Ziwei Liu, Wenping Wang, Yuan Liu \
+  Arxiv 2026
+
 #### 2024
 - [Neural Garment Dynamics via Manifold-Aware Transformers](https://peizhuoli.github.io/manifold-aware-transformers/) \
   Peizhuo Li, Tuanfeng Y. Wang, Timur Levent Kesdogan, Duygu Ceylan, Olga Sorkine-Hornung \
