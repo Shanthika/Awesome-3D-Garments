@@ -343,6 +343,10 @@ Table of Contents
   ACM- TOG, 2017
   
 ## Garment Retargetting
+#### 2026
+- [LoBoFit: Flexible Garment Refitting via Local Bone Mapping Blending](https://arxiv.org/pdf/2605.07450v1)\
+  Meng Zhang, Yu Xin, Feiya Guo, Kaizhang Kang, Mengyu Chu, Ruizhen Hu \
+  Siggraph 2026
 #### 2025
 - [Progressive Outfit Assembly and Instantaneous Pose Transfer](https://dl.acm.org/doi/epdf/10.1145/3757377.3763868) \
   Dewen Guo, Zhendong Wang, Zegao Liu, Sheng Li, Guoping Wang, Yin Yang and Huamin Wang \
