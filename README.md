@@ -340,10 +340,13 @@ Table of Contents
 #### 2017
 - [ClothCap: Seamless 4D Clothing Capture and Retargeting](https://dl.acm.org/doi/pdf/10.1145/3072959.3073711) \
   Gerard Pons-Moll, Sergi Pujades, Sonny Hu, and Michael J. Black \
-  ACM- TOG, 2017
+  ACM-TOG, 2017
   
 ## Garment Retargetting
 #### 2026
+- [Dress Anyone: A Method and Dataset for 3D Garment Retargeting](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70507) \
+  Shanthika Naik, Astitva Srivastava, Kunwar Maheep Singh, Amit Raj, Varun Jampani, Avinash Sharma \
+  CGF, 2026
 - [LoBoFit: Flexible Garment Refitting via Local Bone Mapping Blending](https://arxiv.org/pdf/2605.07450v1)\
   Meng Zhang, Yu Xin, Feiya Guo, Kaizhang Kang, Mengyu Chu, Ruizhen Hu \
   Siggraph 2026
