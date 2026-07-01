@@ -189,6 +189,10 @@ Table of Contents
   ACM Transactions on Graphics (TOG), 2022
   
 ## Garment Generation
+#### 2026
+- [DiGI: Dierentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation](https://ejshim.github.io/diffgi/) \
+  Eungjune Shim, Hansol Lee, and Eunjung Ju \
+  ECCV, 2026
 #### 2024
 - [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](https://ihe-kaii.github.io/DressCode/) \
   Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu \
