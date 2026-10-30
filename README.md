@@ -502,14 +502,18 @@ Contains captures dynamic motions of 4 dresses, 28 lower, 30 upper, and 32 outer
 
 <img src="images/4d_dress.png" width="600">
 
+### 7. [DNA-Rendering]([https://github.com/y-zheng18/MultiHuman-Dataset](https://dna-rendering.github.io/))
+A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering
+<img src="images/DNA.jpg" width="600">
 
-### 7. [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
+
+### 8. [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
 Contains 453 high-quality 3D human scans with raw obj mesh files and texture maps. Each scan contains 1-3 persons.
 
 <img src="images/MultiHuman.jpg" width="600">
 
 
-### 8. [4D Human Outfit](https://kinovis.inria.fr/4dhumanoutfit/)
+### 9. [4D Human Outfit](https://kinovis.inria.fr/4dhumanoutfit/)
 4DHumanOutfit is a new dataset of 4D human motion sequences, sampled densely in space and time, with 20 actors, dressed in 7 outfits each, and performing 11 motions exhibiting large displacements in each outfit. 
 
 <img src="images/4DHumanOutfit.png" width="600">
