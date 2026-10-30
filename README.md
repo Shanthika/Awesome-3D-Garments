@@ -473,47 +473,54 @@ ActorsHQ, consists of 39, 765 frames of dynamic human motion captured using mult
 <img src="images/actorshq.png" width="600">
 
 
-### 2. [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
+
+### 2. [UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment]([https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans](https://vcai.mpi-inf.mpg.de/projects/UMA/))
+A high-quality dataset featuring long, 6K multi-view videos captured on a light stage, with challenging motion-aware wrinkles and fine-grained appearance details. 
+
+<img src="images/uma" width="600">
+
+
+### 3. [3D Humans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans)
 3DHumans dataset provides around 180 meshes of people in diverse body shapes in various garments styles and sizes. We cover a wide variety of clothing styles, ranging from loose robed clothing, like saree (a typical South-Asian dress) to relatively tight fit clothing, like shirts and trousers. Along with the high quality geometry (mesh) and texture map, we also provide registered SMPL's parameters. 
 
 <img src="images/3dhumans.png" width="600">
 
 
-### 3. [THuman](https://github.com/ytrock/THuman2.0-Dataset)
+### 4. [THuman](https://github.com/ytrock/THuman2.0-Dataset)
 Dataset contains 500 high-quality human scans captured by a dense DLSR rig. For each scan, we provide the 3D model, the corresponding texture map and SMPL-X fitting parameters and corresponding meshes.
 
 <img src="images/thuman.jpg" width="600">
 
 
-### 4. [XHumans](https://github.com/Skype-line/X-Avatar)
+### 5. [XHumans](https://github.com/Skype-line/X-Avatar)
 Contains 233 sequences of high-quality textured scans from 20 participants, totalling about 35,500 data frames.
 
 <img src="images/xhumans.png" width="600">
 
 
-### 5. [BUFF](https://buff.is.tue.mpg.de/)
+### 6. [BUFF](https://buff.is.tue.mpg.de/)
 BUFF consists of 6 subjects, 3 male and 3 female wearing 2 clothing styles: a) t-shirt and long pants and b) a soccer outfit. The sequence lengths range between 4 to 9 seconds (200-500 frames) totaling 13,632 3D scans.
 	
 <img src="images/buff.png" width="600">
 
 
-### 6. [4D-DRESS Dataset Subjects](https://eth-ait.github.io/4d-dress/)
+### 7. [4D-DRESS Dataset Subjects](https://eth-ait.github.io/4d-dress/)
 Contains captures dynamic motions of 4 dresses, 28 lower, 30 upper, and 32 outer garments. For each garment, we also provide its canonical template mesh to benefit the future human clothing study.
 
 <img src="images/4d_dress.png" width="600">
 
-### 7. [DNA-Rendering]([https://github.com/y-zheng18/MultiHuman-Dataset](https://dna-rendering.github.io/))
+### 8. [DNA-Rendering]([https://github.com/y-zheng18/MultiHuman-Dataset](https://dna-rendering.github.io/))
 A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering
 <img src="images/dna.gif" width="600">
 
 
-### 8. [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
+### 9. [MultiHuman](https://github.com/y-zheng18/MultiHuman-Dataset)
 Contains 453 high-quality 3D human scans with raw obj mesh files and texture maps. Each scan contains 1-3 persons.
 
 <img src="images/MultiHuman.jpg" width="600">
 
 
-### 9. [4D Human Outfit](https://kinovis.inria.fr/4dhumanoutfit/)
+### 10. [4D Human Outfit](https://kinovis.inria.fr/4dhumanoutfit/)
 4DHumanOutfit is a new dataset of 4D human motion sequences, sampled densely in space and time, with 20 actors, dressed in 7 outfits each, and performing 11 motions exhibiting large displacements in each outfit. 
 
 <img src="images/4DHumanOutfit.png" width="600">
