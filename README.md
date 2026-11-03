@@ -474,7 +474,7 @@ ActorsHQ, consists of 39, 765 frames of dynamic human motion captured using mult
 
 
 
-### 2. [UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment]([https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans](https://vcai.mpi-inf.mpg.de/projects/UMA/))
+### 2. [UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment](https://vcai.mpi-inf.mpg.de/projects/UMA/)
 A high-quality dataset featuring long, 6K multi-view videos captured on a light stage, with challenging motion-aware wrinkles and fine-grained appearance details. 
 
 <img src="images/uma.png" width="600">
