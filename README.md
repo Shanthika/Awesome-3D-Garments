@@ -509,7 +509,7 @@ Contains captures dynamic motions of 4 dresses, 28 lower, 30 upper, and 32 outer
 
 <img src="images/4d_dress.png" width="600">
 
-### 8. [DNA-Rendering]([https://github.com/y-zheng18/MultiHuman-Dataset](https://dna-rendering.github.io/))
+### 8. [DNA-Rendering](https://dna-rendering.github.io/)
 A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering
 <img src="images/dna.gif" width="600">
 
